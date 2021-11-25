@@ -1,0 +1,12 @@
+C:\Users\8m3xl\source\repos\Subjects\Subjects\bin\Debug\netcoreapp3.1\Subjects.exe
+C:\Users\8m3xl\source\repos\Subjects\Subjects\bin\Debug\netcoreapp3.1\Subjects.deps.json
+C:\Users\8m3xl\source\repos\Subjects\Subjects\bin\Debug\netcoreapp3.1\Subjects.runtimeconfig.json
+C:\Users\8m3xl\source\repos\Subjects\Subjects\bin\Debug\netcoreapp3.1\Subjects.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\Subjects\Subjects\bin\Debug\netcoreapp3.1\Subjects.dll
+C:\Users\8m3xl\source\repos\Subjects\Subjects\bin\Debug\netcoreapp3.1\Subjects.pdb
+C:\Users\8m3xl\source\repos\Subjects\Subjects\obj\Debug\netcoreapp3.1\Subjects.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\Subjects\Subjects\obj\Debug\netcoreapp3.1\Subjects.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\Subjects\Subjects\obj\Debug\netcoreapp3.1\Subjects.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\Subjects\Subjects\obj\Debug\netcoreapp3.1\Subjects.dll
+C:\Users\8m3xl\source\repos\Subjects\Subjects\obj\Debug\netcoreapp3.1\Subjects.pdb
+C:\Users\8m3xl\source\repos\Subjects\Subjects\obj\Debug\netcoreapp3.1\Subjects.genruntimeconfig.cache

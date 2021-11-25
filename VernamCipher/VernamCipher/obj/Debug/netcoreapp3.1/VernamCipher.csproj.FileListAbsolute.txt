@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\bin\Debug\netcoreapp3.1\VernamCipher.exe
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\bin\Debug\netcoreapp3.1\VernamCipher.deps.json
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\bin\Debug\netcoreapp3.1\VernamCipher.runtimeconfig.json
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\bin\Debug\netcoreapp3.1\VernamCipher.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\bin\Debug\netcoreapp3.1\VernamCipher.dll
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\bin\Debug\netcoreapp3.1\VernamCipher.pdb
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\obj\Debug\netcoreapp3.1\VernamCipher.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\obj\Debug\netcoreapp3.1\VernamCipher.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\obj\Debug\netcoreapp3.1\VernamCipher.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\obj\Debug\netcoreapp3.1\VernamCipher.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\obj\Debug\netcoreapp3.1\VernamCipher.dll
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\obj\Debug\netcoreapp3.1\VernamCipher.pdb
+C:\Users\8m3xl\source\repos\VernamCipher\VernamCipher\obj\Debug\netcoreapp3.1\VernamCipher.genruntimeconfig.cache

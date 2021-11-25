@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\bin\Debug\netcoreapp3.1\BasicCeaserCipher.exe
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\bin\Debug\netcoreapp3.1\BasicCeaserCipher.deps.json
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\bin\Debug\netcoreapp3.1\BasicCeaserCipher.runtimeconfig.json
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\bin\Debug\netcoreapp3.1\BasicCeaserCipher.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\bin\Debug\netcoreapp3.1\BasicCeaserCipher.dll
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\bin\Debug\netcoreapp3.1\BasicCeaserCipher.pdb
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\obj\Debug\netcoreapp3.1\BasicCeaserCipher.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\obj\Debug\netcoreapp3.1\BasicCeaserCipher.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\obj\Debug\netcoreapp3.1\BasicCeaserCipher.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\obj\Debug\netcoreapp3.1\BasicCeaserCipher.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\obj\Debug\netcoreapp3.1\BasicCeaserCipher.dll
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\obj\Debug\netcoreapp3.1\BasicCeaserCipher.pdb
+C:\Users\8m3xl\source\repos\BasicCeaserCipher\BasicCeaserCipher\obj\Debug\netcoreapp3.1\BasicCeaserCipher.genruntimeconfig.cache

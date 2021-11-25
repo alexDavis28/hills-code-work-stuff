@@ -1,0 +1,12 @@
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\bin\Debug\netcoreapp3.1\5.4 Extra Exercises.exe
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\bin\Debug\netcoreapp3.1\5.4 Extra Exercises.deps.json
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\bin\Debug\netcoreapp3.1\5.4 Extra Exercises.runtimeconfig.json
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\bin\Debug\netcoreapp3.1\5.4 Extra Exercises.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\bin\Debug\netcoreapp3.1\5.4 Extra Exercises.dll
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\bin\Debug\netcoreapp3.1\5.4 Extra Exercises.pdb
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\obj\Debug\netcoreapp3.1\5.4 Extra Exercises.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\obj\Debug\netcoreapp3.1\5.4 Extra Exercises.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\obj\Debug\netcoreapp3.1\5.4 Extra Exercises.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\obj\Debug\netcoreapp3.1\5.4 Extra Exercises.dll
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\obj\Debug\netcoreapp3.1\5.4 Extra Exercises.pdb
+C:\Users\8m3xl\source\repos\5.4 Extra Exercises\5.4 Extra Exercises\obj\Debug\netcoreapp3.1\5.4 Extra Exercises.genruntimeconfig.cache

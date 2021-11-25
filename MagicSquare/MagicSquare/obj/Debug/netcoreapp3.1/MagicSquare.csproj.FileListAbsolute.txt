@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.exe
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.deps.json
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.runtimeconfig.json
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.dll
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\bin\Debug\netcoreapp3.1\MagicSquare.pdb
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.dll
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.pdb
+C:\Users\8m3xl\source\repos\MagicSquare\MagicSquare\obj\Debug\netcoreapp3.1\MagicSquare.genruntimeconfig.cache

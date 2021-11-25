@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\bin\Debug\netcoreapp3.1\MeasurementConversion.exe
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\bin\Debug\netcoreapp3.1\MeasurementConversion.deps.json
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\bin\Debug\netcoreapp3.1\MeasurementConversion.runtimeconfig.json
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\bin\Debug\netcoreapp3.1\MeasurementConversion.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\bin\Debug\netcoreapp3.1\MeasurementConversion.dll
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\bin\Debug\netcoreapp3.1\MeasurementConversion.pdb
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\obj\Debug\netcoreapp3.1\MeasurementConversion.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\obj\Debug\netcoreapp3.1\MeasurementConversion.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\obj\Debug\netcoreapp3.1\MeasurementConversion.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\obj\Debug\netcoreapp3.1\MeasurementConversion.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\obj\Debug\netcoreapp3.1\MeasurementConversion.dll
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\obj\Debug\netcoreapp3.1\MeasurementConversion.pdb
+C:\Users\8m3xl\source\repos\MeasurementConversion\MeasurementConversion\obj\Debug\netcoreapp3.1\MeasurementConversion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.exe
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.deps.json
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.json
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.dll
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.pdb
+C:\Users\8m3xl\source\repos\GuessingGame\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\bin\Debug\netcoreapp3.1\TestMarks.exe
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\bin\Debug\netcoreapp3.1\TestMarks.deps.json
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\bin\Debug\netcoreapp3.1\TestMarks.runtimeconfig.json
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\bin\Debug\netcoreapp3.1\TestMarks.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\bin\Debug\netcoreapp3.1\TestMarks.dll
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\bin\Debug\netcoreapp3.1\TestMarks.pdb
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\obj\Debug\netcoreapp3.1\TestMarks.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\obj\Debug\netcoreapp3.1\TestMarks.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\obj\Debug\netcoreapp3.1\TestMarks.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\obj\Debug\netcoreapp3.1\TestMarks.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\obj\Debug\netcoreapp3.1\TestMarks.dll
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\obj\Debug\netcoreapp3.1\TestMarks.pdb
+C:\Users\8m3xl\source\repos\TestMarks\TestMarks\obj\Debug\netcoreapp3.1\TestMarks.genruntimeconfig.cache

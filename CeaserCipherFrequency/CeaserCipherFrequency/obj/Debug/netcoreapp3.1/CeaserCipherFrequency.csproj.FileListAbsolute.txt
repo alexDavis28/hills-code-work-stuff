@@ -1,0 +1,12 @@
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\bin\Debug\netcoreapp3.1\CeaserCipherFrequency.exe
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\bin\Debug\netcoreapp3.1\CeaserCipherFrequency.deps.json
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\bin\Debug\netcoreapp3.1\CeaserCipherFrequency.runtimeconfig.json
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\bin\Debug\netcoreapp3.1\CeaserCipherFrequency.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\bin\Debug\netcoreapp3.1\CeaserCipherFrequency.dll
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\bin\Debug\netcoreapp3.1\CeaserCipherFrequency.pdb
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\obj\Debug\netcoreapp3.1\CeaserCipherFrequency.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\obj\Debug\netcoreapp3.1\CeaserCipherFrequency.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\obj\Debug\netcoreapp3.1\CeaserCipherFrequency.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\obj\Debug\netcoreapp3.1\CeaserCipherFrequency.dll
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\obj\Debug\netcoreapp3.1\CeaserCipherFrequency.pdb
+C:\Users\8m3xl\source\repos\CeaserCipherFrequency\CeaserCipherFrequency\obj\Debug\netcoreapp3.1\CeaserCipherFrequency.genruntimeconfig.cache

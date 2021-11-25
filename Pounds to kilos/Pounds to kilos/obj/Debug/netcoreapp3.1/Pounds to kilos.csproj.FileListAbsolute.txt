@@ -1,0 +1,12 @@
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\bin\Debug\netcoreapp3.1\Pounds to kilos.exe
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\bin\Debug\netcoreapp3.1\Pounds to kilos.deps.json
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\bin\Debug\netcoreapp3.1\Pounds to kilos.runtimeconfig.json
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\bin\Debug\netcoreapp3.1\Pounds to kilos.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\bin\Debug\netcoreapp3.1\Pounds to kilos.dll
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\bin\Debug\netcoreapp3.1\Pounds to kilos.pdb
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\obj\Debug\netcoreapp3.1\Pounds to kilos.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\obj\Debug\netcoreapp3.1\Pounds to kilos.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\obj\Debug\netcoreapp3.1\Pounds to kilos.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\obj\Debug\netcoreapp3.1\Pounds to kilos.dll
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\obj\Debug\netcoreapp3.1\Pounds to kilos.pdb
+C:\Users\8m3xl\source\repos\Pounds to kilos\Pounds to kilos\obj\Debug\netcoreapp3.1\Pounds to kilos.genruntimeconfig.cache

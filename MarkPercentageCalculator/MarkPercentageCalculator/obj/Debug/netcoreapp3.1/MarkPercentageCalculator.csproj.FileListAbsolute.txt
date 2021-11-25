@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\bin\Debug\netcoreapp3.1\MarkPercentageCalculator.exe
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\bin\Debug\netcoreapp3.1\MarkPercentageCalculator.deps.json
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\bin\Debug\netcoreapp3.1\MarkPercentageCalculator.runtimeconfig.json
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\bin\Debug\netcoreapp3.1\MarkPercentageCalculator.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\bin\Debug\netcoreapp3.1\MarkPercentageCalculator.dll
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\bin\Debug\netcoreapp3.1\MarkPercentageCalculator.pdb
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\obj\Debug\netcoreapp3.1\MarkPercentageCalculator.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\obj\Debug\netcoreapp3.1\MarkPercentageCalculator.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\obj\Debug\netcoreapp3.1\MarkPercentageCalculator.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\obj\Debug\netcoreapp3.1\MarkPercentageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\obj\Debug\netcoreapp3.1\MarkPercentageCalculator.dll
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\obj\Debug\netcoreapp3.1\MarkPercentageCalculator.pdb
+C:\Users\8m3xl\source\repos\MarkPercentageCalculator\MarkPercentageCalculator\obj\Debug\netcoreapp3.1\MarkPercentageCalculator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\bin\Debug\netcoreapp3.1\Number conversion programming worksheet.exe
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\bin\Debug\netcoreapp3.1\Number conversion programming worksheet.deps.json
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\bin\Debug\netcoreapp3.1\Number conversion programming worksheet.runtimeconfig.json
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\bin\Debug\netcoreapp3.1\Number conversion programming worksheet.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\bin\Debug\netcoreapp3.1\Number conversion programming worksheet.dll
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\bin\Debug\netcoreapp3.1\Number conversion programming worksheet.pdb
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\obj\Debug\netcoreapp3.1\Number conversion programming worksheet.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\obj\Debug\netcoreapp3.1\Number conversion programming worksheet.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\obj\Debug\netcoreapp3.1\Number conversion programming worksheet.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\obj\Debug\netcoreapp3.1\Number conversion programming worksheet.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\obj\Debug\netcoreapp3.1\Number conversion programming worksheet.dll
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\obj\Debug\netcoreapp3.1\Number conversion programming worksheet.pdb
+C:\Users\8m3xl\source\repos\Number conversion programming worksheet\Number conversion programming worksheet\obj\Debug\netcoreapp3.1\Number conversion programming worksheet.genruntimeconfig.cache

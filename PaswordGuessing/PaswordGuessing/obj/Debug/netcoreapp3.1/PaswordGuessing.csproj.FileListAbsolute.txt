@@ -1,0 +1,12 @@
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\bin\Debug\netcoreapp3.1\PaswordGuessing.exe
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\bin\Debug\netcoreapp3.1\PaswordGuessing.deps.json
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\bin\Debug\netcoreapp3.1\PaswordGuessing.runtimeconfig.json
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\bin\Debug\netcoreapp3.1\PaswordGuessing.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\bin\Debug\netcoreapp3.1\PaswordGuessing.dll
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\bin\Debug\netcoreapp3.1\PaswordGuessing.pdb
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\obj\Debug\netcoreapp3.1\PaswordGuessing.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\obj\Debug\netcoreapp3.1\PaswordGuessing.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\obj\Debug\netcoreapp3.1\PaswordGuessing.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\obj\Debug\netcoreapp3.1\PaswordGuessing.dll
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\obj\Debug\netcoreapp3.1\PaswordGuessing.pdb
+C:\Users\8m3xl\source\repos\PaswordGuessing\PaswordGuessing\obj\Debug\netcoreapp3.1\PaswordGuessing.genruntimeconfig.cache

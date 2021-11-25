@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\bin\Debug\netcoreapp3.1\CinemaSeating.exe
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\bin\Debug\netcoreapp3.1\CinemaSeating.deps.json
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\bin\Debug\netcoreapp3.1\CinemaSeating.runtimeconfig.json
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\bin\Debug\netcoreapp3.1\CinemaSeating.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\bin\Debug\netcoreapp3.1\CinemaSeating.dll
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\bin\Debug\netcoreapp3.1\CinemaSeating.pdb
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\obj\Debug\netcoreapp3.1\CinemaSeating.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\obj\Debug\netcoreapp3.1\CinemaSeating.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\obj\Debug\netcoreapp3.1\CinemaSeating.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\obj\Debug\netcoreapp3.1\CinemaSeating.dll
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\obj\Debug\netcoreapp3.1\CinemaSeating.pdb
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\obj\Debug\netcoreapp3.1\CinemaSeating.genruntimeconfig.cache
+C:\Users\8m3xl\source\repos\CinemaSeating\CinemaSeating\obj\Debug\netcoreapp3.1\CinemaSeating.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\obj\Debug\netcoreapp3.1\CircleCircumferenceFix.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\obj\Debug\netcoreapp3.1\CircleCircumferenceFix.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\obj\Debug\netcoreapp3.1\CircleCircumferenceFix.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\obj\Debug\netcoreapp3.1\CircleCircumferenceFix.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\bin\Debug\netcoreapp3.1\CircleCircumferenceFix.exe
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\bin\Debug\netcoreapp3.1\CircleCircumferenceFix.deps.json
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\bin\Debug\netcoreapp3.1\CircleCircumferenceFix.runtimeconfig.json
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\bin\Debug\netcoreapp3.1\CircleCircumferenceFix.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\bin\Debug\netcoreapp3.1\CircleCircumferenceFix.dll
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\bin\Debug\netcoreapp3.1\CircleCircumferenceFix.pdb
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\obj\Debug\netcoreapp3.1\CircleCircumferenceFix.dll
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\obj\Debug\netcoreapp3.1\CircleCircumferenceFix.pdb
+C:\Users\8m3xl\source\repos\CircleCircumferenceFix\CircleCircumferenceFix\obj\Debug\netcoreapp3.1\CircleCircumferenceFix.genruntimeconfig.cache

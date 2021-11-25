@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\bin\Debug\netcoreapp3.1\MergingArrays.exe
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\bin\Debug\netcoreapp3.1\MergingArrays.deps.json
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\bin\Debug\netcoreapp3.1\MergingArrays.runtimeconfig.json
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\bin\Debug\netcoreapp3.1\MergingArrays.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\bin\Debug\netcoreapp3.1\MergingArrays.dll
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\bin\Debug\netcoreapp3.1\MergingArrays.pdb
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\obj\Debug\netcoreapp3.1\MergingArrays.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\obj\Debug\netcoreapp3.1\MergingArrays.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\obj\Debug\netcoreapp3.1\MergingArrays.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\obj\Debug\netcoreapp3.1\MergingArrays.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\obj\Debug\netcoreapp3.1\MergingArrays.dll
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\obj\Debug\netcoreapp3.1\MergingArrays.pdb
+C:\Users\8m3xl\source\repos\MergingArrays\MergingArrays\obj\Debug\netcoreapp3.1\MergingArrays.genruntimeconfig.cache

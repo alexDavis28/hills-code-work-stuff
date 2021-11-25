@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\bin\Debug\netcoreapp3.1\PCardGame.exe
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\bin\Debug\netcoreapp3.1\PCardGame.deps.json
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\bin\Debug\netcoreapp3.1\PCardGame.runtimeconfig.json
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\bin\Debug\netcoreapp3.1\PCardGame.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\bin\Debug\netcoreapp3.1\PCardGame.dll
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\bin\Debug\netcoreapp3.1\PCardGame.pdb
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\obj\Debug\netcoreapp3.1\PCardGame.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\obj\Debug\netcoreapp3.1\PCardGame.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\obj\Debug\netcoreapp3.1\PCardGame.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\obj\Debug\netcoreapp3.1\PCardGame.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\obj\Debug\netcoreapp3.1\PCardGame.dll
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\obj\Debug\netcoreapp3.1\PCardGame.pdb
+C:\Users\8m3xl\source\repos\PCardGame\PCardGame\obj\Debug\netcoreapp3.1\PCardGame.genruntimeconfig.cache

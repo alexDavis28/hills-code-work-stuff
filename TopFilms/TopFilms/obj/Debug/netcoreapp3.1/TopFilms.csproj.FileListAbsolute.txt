@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\bin\Debug\netcoreapp3.1\TopFilms.exe
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\bin\Debug\netcoreapp3.1\TopFilms.deps.json
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\bin\Debug\netcoreapp3.1\TopFilms.runtimeconfig.json
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\bin\Debug\netcoreapp3.1\TopFilms.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\bin\Debug\netcoreapp3.1\TopFilms.dll
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\bin\Debug\netcoreapp3.1\TopFilms.pdb
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\obj\Debug\netcoreapp3.1\TopFilms.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\obj\Debug\netcoreapp3.1\TopFilms.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\obj\Debug\netcoreapp3.1\TopFilms.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\obj\Debug\netcoreapp3.1\TopFilms.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\obj\Debug\netcoreapp3.1\TopFilms.dll
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\obj\Debug\netcoreapp3.1\TopFilms.pdb
+C:\Users\8m3xl\source\repos\TopFilms\TopFilms\obj\Debug\netcoreapp3.1\TopFilms.genruntimeconfig.cache

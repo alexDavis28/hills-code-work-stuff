@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\bin\Debug\netcoreapp3.1\HRSFC-Introduction.exe
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\bin\Debug\netcoreapp3.1\HRSFC-Introduction.deps.json
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\bin\Debug\netcoreapp3.1\HRSFC-Introduction.runtimeconfig.json
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\bin\Debug\netcoreapp3.1\HRSFC-Introduction.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\bin\Debug\netcoreapp3.1\HRSFC-Introduction.dll
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\bin\Debug\netcoreapp3.1\HRSFC-Introduction.pdb
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\obj\Debug\netcoreapp3.1\HRSFC-Introduction.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\obj\Debug\netcoreapp3.1\HRSFC-Introduction.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\obj\Debug\netcoreapp3.1\HRSFC-Introduction.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\obj\Debug\netcoreapp3.1\HRSFC-Introduction.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\obj\Debug\netcoreapp3.1\HRSFC-Introduction.dll
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\obj\Debug\netcoreapp3.1\HRSFC-Introduction.pdb
+C:\Users\8m3xl\source\repos\HRSFC-Introduction\HRSFC-Introduction\obj\Debug\netcoreapp3.1\HRSFC-Introduction.genruntimeconfig.cache
