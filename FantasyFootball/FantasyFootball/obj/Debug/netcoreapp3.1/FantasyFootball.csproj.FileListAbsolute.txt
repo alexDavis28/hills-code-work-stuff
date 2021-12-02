@@ -1,0 +1,14 @@
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\bin\Debug\netcoreapp3.1\FantasyFootball.exe
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\bin\Debug\netcoreapp3.1\FantasyFootball.deps.json
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\bin\Debug\netcoreapp3.1\FantasyFootball.runtimeconfig.json
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\bin\Debug\netcoreapp3.1\FantasyFootball.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\bin\Debug\netcoreapp3.1\FantasyFootball.dll
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\bin\Debug\netcoreapp3.1\FantasyFootball.pdb
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\obj\Debug\netcoreapp3.1\FantasyFootball.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\obj\Debug\netcoreapp3.1\FantasyFootball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\obj\Debug\netcoreapp3.1\FantasyFootball.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\obj\Debug\netcoreapp3.1\FantasyFootball.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\obj\Debug\netcoreapp3.1\FantasyFootball.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\obj\Debug\netcoreapp3.1\FantasyFootball.dll
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\obj\Debug\netcoreapp3.1\FantasyFootball.pdb
+C:\Users\8m3xl\source\repos\FantasyFootball\FantasyFootball\obj\Debug\netcoreapp3.1\FantasyFootball.genruntimeconfig.cache
