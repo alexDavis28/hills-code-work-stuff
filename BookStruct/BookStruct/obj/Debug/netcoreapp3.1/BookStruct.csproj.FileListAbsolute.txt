@@ -1,0 +1,14 @@
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\bin\Debug\netcoreapp3.1\BookStruct.exe
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\bin\Debug\netcoreapp3.1\BookStruct.deps.json
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\bin\Debug\netcoreapp3.1\BookStruct.runtimeconfig.json
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\bin\Debug\netcoreapp3.1\BookStruct.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\bin\Debug\netcoreapp3.1\BookStruct.dll
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\bin\Debug\netcoreapp3.1\BookStruct.pdb
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\obj\Debug\netcoreapp3.1\BookStruct.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\obj\Debug\netcoreapp3.1\BookStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\obj\Debug\netcoreapp3.1\BookStruct.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\obj\Debug\netcoreapp3.1\BookStruct.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\obj\Debug\netcoreapp3.1\BookStruct.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\obj\Debug\netcoreapp3.1\BookStruct.dll
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\obj\Debug\netcoreapp3.1\BookStruct.pdb
+C:\Users\8m3xl\source\repos\BookStruct\BookStruct\obj\Debug\netcoreapp3.1\BookStruct.genruntimeconfig.cache
