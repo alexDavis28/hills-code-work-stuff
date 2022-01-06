@@ -46,6 +46,27 @@ namespace BookStruct
                 DisplayBook(book);
             }
 
+
+            // Second lesson
+
+            Console.WriteLine("\n\nWriting and writing one book at a time:");
+
+            WriteBook(Book1);
+            DisplayBook(ReadBook());
+
+
+            WriteBook(Book2);
+            DisplayBook(ReadBook());
+
+            Console.WriteLine("\n\nReading and writing an array of books:");
+
+            WriteBookArray(BookArray);
+            BookArray = ReadBookArray();
+            foreach (Book book in BookArray)
+            {
+                DisplayBook(book);
+            }
+
         }
 
         static void DisplayBook(Book book)
@@ -56,6 +77,94 @@ namespace BookStruct
             Console.WriteLine($"ISBN: {book.isbn}");
             Console.WriteLine($"Price: {book.price}");
             Console.WriteLine($"Pages: {book.pages}");
+        }
+
+        static void WriteBook(Book book)
+        {
+            string documents_path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
+            string save_file_path = documents_path + @"\BookBinary\data.bin";
+
+            using (BinaryWriter writer = new BinaryWriter(File.Open(save_file_path, FileMode.Create)))
+            {
+                writer.Write(book.title);
+                writer.Write(book.author);
+                writer.Write(book.genre);
+                writer.Write(book.isbn);
+                writer.Write(book.price);
+                writer.Write(book.pages);
+            }
+        }
+
+        static Book ReadBook()
+        {
+            string documents_path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
+            string save_file_path = documents_path + @"\BookBinary\data.bin";
+
+            Book book = new Book();
+
+            using (BinaryReader reader = new BinaryReader(File.Open(save_file_path, FileMode.Open)))
+            {
+                book.title = reader.ReadString();
+                book.author = reader.ReadString();
+                book.genre = reader.ReadString();
+                book.isbn = reader.ReadInt64();
+                book.price = reader.ReadDouble();
+                book.pages = reader.ReadInt32();
+            }
+            return book;
+        }
+    
+        static void WriteBookArray(Book[] books)
+        {
+            string documents_path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
+            string save_file_path = documents_path + @"\BookBinary\array_data.bin";
+
+            var file = File.Create(save_file_path);
+            file.Close();
+
+            foreach (Book book in books)
+            {
+                using (BinaryWriter writer = new BinaryWriter(File.Open(save_file_path, FileMode.Append)))
+                {
+                    writer.Write(book.title);
+                    writer.Write(book.author);
+                    writer.Write(book.genre);
+                    writer.Write(book.isbn);
+                    writer.Write(book.price);
+                    writer.Write(book.pages);
+                }
+            }
+        }
+
+        static Book[] ReadBookArray()
+        {
+            string documents_path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
+            string save_file_path = documents_path + @"\BookBinary\array_data.bin";
+
+            Book book1 = new Book();
+            Book book2 = new Book();
+
+            Book[] books = new Book[2] {book1, book2};
+
+            using (BinaryReader reader = new BinaryReader(File.Open(save_file_path, FileMode.Open)))
+            {
+                for (int i = 0; i < books.Length; i++)
+                {
+                    {
+                        books[i].title = reader.ReadString();
+                        books[i].author = reader.ReadString();
+                        books[i].genre = reader.ReadString();
+                        books[i].isbn = reader.ReadInt64();
+                        books[i].price = reader.ReadDouble();
+                        books[i].pages = reader.ReadInt32();
+                    }
+                }
+            }
+            return books;
         }
     }
 }
