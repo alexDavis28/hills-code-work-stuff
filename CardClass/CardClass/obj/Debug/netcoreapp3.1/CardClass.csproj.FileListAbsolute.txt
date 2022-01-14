@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.exe
+C:\Users\8m3xl\source\repos\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.deps.json
+C:\Users\8m3xl\source\repos\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.runtimeconfig.json
+C:\Users\8m3xl\source\repos\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.dll
+C:\Users\8m3xl\source\repos\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.pdb
+C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.dll
+C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.pdb
+C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.genruntimeconfig.cache
