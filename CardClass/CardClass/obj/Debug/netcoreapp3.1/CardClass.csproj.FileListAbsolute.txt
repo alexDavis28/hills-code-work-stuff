@@ -11,3 +11,16 @@ C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClas
 C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.dll
 C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.pdb
 C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.genruntimeconfig.cache
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.exe
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.deps.json
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.runtimeconfig.json
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.runtimeconfig.dev.json
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.dll
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\bin\Debug\netcoreapp3.1\CardClass.pdb
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.AssemblyInfo.cs
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.dll
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.pdb
+C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.genruntimeconfig.cache

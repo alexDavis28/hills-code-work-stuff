@@ -7,10 +7,14 @@ namespace CardClass
         static void Main(string[] args)
         {
             Random rand = new Random();
-            Card card = new Card(rand.Next(12)+1, rand.Next(0, 4));
-            Console.WriteLine(card.getRank());
-            Console.WriteLine(card.getSuit());
-            Console.WriteLine(card.getScore());
+            for (int s = 0; s < 4; s++)
+            {
+                for (int r = 1; r < 14; r++)
+                {
+                    Card card = new Card(r, s);
+                    Console.WriteLine($"{card.rankAsString()} of {card.suitAsString()}: {card.getScore()}");
+                }
+            }
         }
     }
 }

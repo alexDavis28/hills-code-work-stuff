@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\8m3xl\\.nuget\\packages\\": {},
+    "C:\\Users\\Alex\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\8m3xl\\source\\repos\\CardClass\\CardClass\\CardClass.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\hills_cs_code\\hills-code-work-stuff\\CardClass\\CardClass\\CardClass.csproj",
       "projectName": "CardClass",
-      "projectPath": "C:\\Users\\8m3xl\\source\\repos\\CardClass\\CardClass\\CardClass.csproj",
-      "packagesPath": "C:\\Users\\8m3xl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\8m3xl\\source\\repos\\CardClass\\CardClass\\obj\\",
+      "projectPath": "C:\\Users\\Alex\\Documents\\hills_cs_code\\hills-code-work-stuff\\CardClass\\CardClass\\CardClass.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\hills_cs_code\\hills-code-work-stuff\\CardClass\\CardClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\8m3xl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
