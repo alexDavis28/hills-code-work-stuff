@@ -7,13 +7,15 @@ namespace CardClass
         static void Main(string[] args)
         {
             Random rand = new Random();
-            for (int s = 0; s < 4; s++)
+
+            Card[] pack = new Card[52];
+
+            for (int i = 0; i < pack.Length; i++)
             {
-                for (int r = 1; r < 14; r++)
-                {
-                    Card card = new Card(r, s);
-                    Console.WriteLine($"{card.rankAsString()} of {card.suitAsString()}: {card.getScore()}");
-                }
+                int r = (i % 13)+1;
+                int s = i / 13;
+                Card card = new Card(r, s);
+                Console.WriteLine($"{card.rankAsString()} of {card.suitAsString()}: {card.getScore()}");
             }
         }
     }
