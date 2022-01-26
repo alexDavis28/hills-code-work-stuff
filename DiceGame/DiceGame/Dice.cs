@@ -6,9 +6,9 @@ namespace DiceGame
 {
     class Dice
     {
-        public int value;
-        public int sides;
-        Random rnd = new Random();
+        private int value;
+        private int sides;
+        private Random rnd = new Random();
 
         public Dice(int numSides)
         {

@@ -24,3 +24,4 @@ C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\
 C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.dll
 C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.pdb
 C:\Users\Alex\Documents\hills_cs_code\hills-code-work-stuff\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.genruntimeconfig.cache
+C:\Users\8m3xl\source\repos\CardClass\CardClass\obj\Debug\netcoreapp3.1\CardClass.csproj.AssemblyReference.cache
