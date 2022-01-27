@@ -1,0 +1,20 @@
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.exe.config
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.exe
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.pdb
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.csprojResolveAssemblyReference.cache
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.exe
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.pdb
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.exe.config
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.exe
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.pdb
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.csproj.AssemblyReference.cache
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.csproj.CoreCompileInputs.cache
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.exe
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.pdb
+C:\Users\8m3xl\source\repos\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.exe.config
+C:\Users\8m3xl\source\repos\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.exe
+C:\Users\8m3xl\source\repos\SimpleCardGame\SimpleCardGame\bin\Debug\SimpleCardGame.pdb
+C:\Users\8m3xl\source\repos\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.exe
+C:\Users\8m3xl\source\repos\SimpleCardGame\SimpleCardGame\obj\Debug\SimpleCardGame.pdb
