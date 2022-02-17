@@ -1,0 +1,27 @@
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\bin\Debug\netcoreapp3.1\War.exe
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\bin\Debug\netcoreapp3.1\War.deps.json
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.json
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.dev.json
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\bin\Debug\netcoreapp3.1\War.dll
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\bin\Debug\netcoreapp3.1\War.pdb
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\obj\Debug\netcoreapp3.1\War.csproj.AssemblyReference.cache
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfoInputs.cache
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfo.cs
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\obj\Debug\netcoreapp3.1\War.csproj.CoreCompileInputs.cache
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\obj\Debug\netcoreapp3.1\War.dll
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\obj\Debug\netcoreapp3.1\War.pdb
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Programming\OOP\War\War\War\obj\Debug\netcoreapp3.1\War.genruntimeconfig.cache
+C:\Users\8m3xl\source\repos\War\War\bin\Debug\netcoreapp3.1\War.exe
+C:\Users\8m3xl\source\repos\War\War\bin\Debug\netcoreapp3.1\War.deps.json
+C:\Users\8m3xl\source\repos\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.json
+C:\Users\8m3xl\source\repos\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\War\War\bin\Debug\netcoreapp3.1\War.dll
+C:\Users\8m3xl\source\repos\War\War\bin\Debug\netcoreapp3.1\War.pdb
+C:\Users\8m3xl\source\repos\War\War\obj\Debug\netcoreapp3.1\War.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\War\War\obj\Debug\netcoreapp3.1\War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\War\War\obj\Debug\netcoreapp3.1\War.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\War\War\obj\Debug\netcoreapp3.1\War.dll
+C:\Users\8m3xl\source\repos\War\War\obj\Debug\netcoreapp3.1\War.pdb
+C:\Users\8m3xl\source\repos\War\War\obj\Debug\netcoreapp3.1\War.genruntimeconfig.cache
