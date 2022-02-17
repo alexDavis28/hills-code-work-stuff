@@ -6,7 +6,9 @@ namespace War
     {
         static void Main(string[] args)
         {
-            GameOfWar game = new GameOfWar();
+            Console.WriteLine("Enter number of players: ");
+            int players = int.Parse(Console.ReadLine());
+            GameOfWar game = new GameOfWar(players);
             game.Deal();
             game.Play();
             Console.ReadLine();

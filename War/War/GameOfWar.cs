@@ -1,5 +1,6 @@
 ﻿using System;
 using CardClasses;
+using System.Linq;
 
 namespace War
 {   
@@ -7,67 +8,115 @@ namespace War
     public class GameOfWar 
     {
         private Pack pack;
-        private Hand p1Hand, p2Hand;
+        private Hand[] hands;
+        private Hand[] cards_in_play;
+        private int players;
 
-        public GameOfWar()
+        public GameOfWar(int players)
         {
-            //!!!!
             //create the pack and hands
+            this.players = players;
+            if (players>4 || players<2)
+            {
+                throw new ArgumentException("Number of players must be between 2 and 4", nameof(players));
+            }
+
             pack = new Pack();
-            p1Hand = new Hand();
-            p2Hand = new Hand();
+
+            hands = new Hand[players];
+            for (int i = 0; i < players; i++)
+            {
+                hands[i] = new Hand();
+            }
             //shuffle the pack
             pack.Shuffle();
         }
 
         public void Deal()
         {
-            while (!pack.IsEmpty())
+            while (!pack.IsEmpty() && pack.Size > 1) //Second evaluation handles for 3 players (52/3 == 17.33333)
             {
-                p1Hand.AddCard(pack.DealCard());
-                // do the same for p2Hand
-                p2Hand.AddCard(pack.DealCard());
+                for (int i = 0; i < players; i++)
+                {
+                    hands[i].AddCard(pack.DealCard());
+                }
             }
         }
 
         public void Play()
         {
-            Hand p1CardsInPlay = new Hand();
-            Hand p2CardsInPlay = new Hand();
+            cards_in_play = new Hand[players];
+            for (int i = 0; i < players; i++)
+            {
+                cards_in_play[i] = new Hand();
+            }
             Random random = new Random();
+            bool playing = true;
+            bool same_cards;
+
+            for (int i = 0; i < hands.Length; i++)
+            {
+                Console.WriteLine($"Player {i} has {hands[i].Size} cards");
+            }
+
             // while both players still have cards left in their hands
-            while (p1Hand.Size > 0 && p2Hand.Size > 0)
+            while (playing)
             {
                 do
                 {
-                    p1CardsInPlay.AddCard(p1Hand.RemoveFirstCard());
-                    p2CardsInPlay.AddCard(p2Hand.RemoveFirstCard());
-                    Console.WriteLine(p1CardsInPlay.Last().GetName() + " " + p2CardsInPlay.Last().GetName());
-                    //!!!! while the last pair of cards put down are the same rank
-                } while (p1CardsInPlay.Last().GetRank() == p2CardsInPlay.Last().GetRank());
 
-                //!!!! if Player1's card is higher than Player2's card
-                if (p1CardsInPlay.Last().GetRank() > p2CardsInPlay.Last().GetRank())
-                {
-                    Console.WriteLine("Player 1 wins");
-                    while (!p1CardsInPlay.IsEmpty())
+                    for (int i = 0; i < players; i++)
                     {
-                        p1Hand.AddCard(p1CardsInPlay.RemoveFirstCard());
-                        p1Hand.AddCard(p2CardsInPlay.RemoveFirstCard());
+                        cards_in_play[i].AddCard(hands[i].RemoveFirstCard());
+                        Console.WriteLine($"Player {i}: {cards_in_play[i].Last().GetName()}");
+                    }
+                    //!!!! while the last pair of cards put down are the same rank
+
+                    // check if all cards are same rank
+                    same_cards = false;
+                    for (int i = 0; i < cards_in_play.Length-1; i++)
+                    {
+                        same_cards = (cards_in_play[i].Last().GetRank() == cards_in_play[i + 1].Last().GetRank());
+                    }
+
+                } while (same_cards);
+
+                // Find highest ranked card and the player who put it down
+                int[] ranks = new int[players];
+                for (int i = 0; i < players; i++)
+                {
+                    ranks[i] = cards_in_play[i].Last().GetRank();
+                }
+                int highest_rank_value = ranks.Max();
+                int highest_rank_index = ranks.ToList().IndexOf(highest_rank_value);
+
+                // Give the winning player all the cards to the winning player
+                Console.WriteLine($"Player {highest_rank_index} wins!");
+                foreach (Hand hand in cards_in_play)
+                {
+                    while (hand.Size>0)
+                    {
+                        hands[highest_rank_index].AddCard(hand.RemoveFirstCard());
                     }
                 }
-                // same but for player two
-                else if (p1CardsInPlay.Last().GetRank() < p2CardsInPlay.Last().GetRank())
+
+                for (int i = 0; i < hands.Length; i++)
                 {
-                    Console.WriteLine("Player 2 wins");
-                    while (!p2CardsInPlay.IsEmpty())
+                    Console.WriteLine($"Player {i} has {hands[i].Size} cards");
+                }
+
+                for (int i = 0; i < hands.Length; i++)
+                {
+                    if (hands[i].Size>=(52/players * 2))
                     {
-                        p2Hand.AddCard(p1CardsInPlay.RemoveFirstCard());
-                        p2Hand.AddCard(p2CardsInPlay.RemoveFirstCard());
+                        Console.WriteLine($"Player {i} wins!");
+                        playing = false;
+                    }
+                    else if (hands[i].Size<1)
+                    {
+                        playing = false;
                     }
                 }
-                Console.WriteLine("Player 1 has " + p1Hand.Size + " cards");
-                Console.WriteLine("Player 2 has " + p2Hand.Size + " cards\n");
             }
         }
 
