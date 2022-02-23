@@ -42,7 +42,6 @@ namespace War
                 }
             }
         }
-
         public void Play()
         {
             cards_in_play = new Hand[players];
