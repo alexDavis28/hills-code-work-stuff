@@ -10,7 +10,7 @@ namespace CardClasses
         // in Pack.Cards
         // Hand does not create any Cards itself
 
-        private List<Card> cards = new List<Card>();
+        protected List<Card> cards = new List<Card>();
 
         public Card this[int i]
         {
@@ -91,6 +91,14 @@ namespace CardClasses
         public void Clear() 
         {
             cards.Clear(); 
+        }
+
+        public void DisplayCards()
+        {
+            foreach (Card card in cards)
+            {
+                Console.WriteLine(card.GetName());
+            }
         }
 
     }
