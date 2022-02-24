@@ -31,7 +31,6 @@ namespace War
             //shuffle the pack
             pack.Shuffle();
         }
-
         public void Deal()
         {
             while (!pack.IsEmpty() && pack.Size > 1) //Second evaluation handles for 3 players (52/3 == 17.33333)
