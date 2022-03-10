@@ -4,9 +4,9 @@ using System.Text;
 
 namespace CardClasses
 {
-    public class BlackJackHand : Hand
+    public class BlackJackHand : ScoringHand
     {
-        public int GetScore()
+        public override int GetScore()
         {
             int score = 0;
             int aces_count = 0;

@@ -10,7 +10,7 @@ namespace BlackJackHand_Project
             Random random = new Random();
 
             BlackJackHand hand = new BlackJackHand();
-            for (int i = 0; i < 1000; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Card card = new Card(random.Next(1, 14), random.Next(4));
                 hand.AddCard(card);

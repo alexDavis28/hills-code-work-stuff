@@ -1,0 +1,26 @@
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\Baccarat\Baccarat\bin\Debug\Baccarat.exe.config
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\bin\Debug\Baccarat.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\bin\Debug\Baccarat.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\obj\Debug\Baccarat.csprojResolveAssemblyReference.cache
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\obj\Debug\Baccarat.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat\Baccarat\obj\Debug\Baccarat.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat for test\Baccarat\bin\Debug\Baccarat.exe.config
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat for test\Baccarat\obj\Debug\Baccarat.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat for test\Baccarat\obj\Debug\Baccarat.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat for test\Baccarat\bin\Debug\Baccarat.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat for test\Baccarat\bin\Debug\Baccarat.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\Baccarat for test\Baccarat\obj\Debug\Baccarat.csprojResolveAssemblyReference.cache
+C:\Users\cvillaverde\OneDrive - Hills Road Sixth Form College\Resources\Y12\Programming\OOP\Test\Baccarat for test\Baccarat\obj\Debug\Baccarat.csproj.AssemblyReference.cache
+C:\Users\cvillaverde\OneDrive - Hills Road Sixth Form College\Resources\Y12\Programming\OOP\Test\Baccarat for test\Baccarat\obj\Debug\Baccarat.csproj.CoreCompileInputs.cache
+C:\Users\cvillaverde\OneDrive - Hills Road Sixth Form College\Resources\Y12\Programming\OOP\Test\Baccarat for test\Baccarat\obj\Debug\Baccarat.exe
+C:\Users\cvillaverde\OneDrive - Hills Road Sixth Form College\Resources\Y12\Programming\OOP\Test\Baccarat for test\Baccarat\obj\Debug\Baccarat.pdb
+C:\Users\cvillaverde\OneDrive - Hills Road Sixth Form College\Resources\Y12\Programming\OOP\Test\Baccarat for test\Baccarat\bin\Debug\Baccarat.exe.config
+C:\Users\cvillaverde\OneDrive - Hills Road Sixth Form College\Resources\Y12\Programming\OOP\Test\Baccarat for test\Baccarat\bin\Debug\Baccarat.exe
+C:\Users\cvillaverde\OneDrive - Hills Road Sixth Form College\Resources\Y12\Programming\OOP\Test\Baccarat for test\Baccarat\bin\Debug\Baccarat.pdb
+\\hr-storage2\Cohort21homeFolder$\ad137148\Downloads\Baccarat for test\Baccarat for test\Baccarat\bin\Debug\Baccarat.exe.config
+\\hr-storage2\Cohort21homeFolder$\ad137148\Downloads\Baccarat for test\Baccarat for test\Baccarat\bin\Debug\Baccarat.exe
+\\hr-storage2\Cohort21homeFolder$\ad137148\Downloads\Baccarat for test\Baccarat for test\Baccarat\bin\Debug\Baccarat.pdb
+\\hr-storage2\Cohort21homeFolder$\ad137148\Downloads\Baccarat for test\Baccarat for test\Baccarat\obj\Debug\Baccarat.csproj.AssemblyReference.cache
+\\hr-storage2\Cohort21homeFolder$\ad137148\Downloads\Baccarat for test\Baccarat for test\Baccarat\obj\Debug\Baccarat.csproj.CoreCompileInputs.cache
+\\hr-storage2\Cohort21homeFolder$\ad137148\Downloads\Baccarat for test\Baccarat for test\Baccarat\obj\Debug\Baccarat.exe
+\\hr-storage2\Cohort21homeFolder$\ad137148\Downloads\Baccarat for test\Baccarat for test\Baccarat\obj\Debug\Baccarat.pdb
