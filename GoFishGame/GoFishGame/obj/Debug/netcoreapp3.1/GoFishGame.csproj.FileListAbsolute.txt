@@ -1,0 +1,14 @@
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\bin\Debug\netcoreapp3.1\GoFishGame.exe
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\bin\Debug\netcoreapp3.1\GoFishGame.deps.json
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\bin\Debug\netcoreapp3.1\GoFishGame.runtimeconfig.json
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\bin\Debug\netcoreapp3.1\GoFishGame.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\bin\Debug\netcoreapp3.1\GoFishGame.dll
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\bin\Debug\netcoreapp3.1\GoFishGame.pdb
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\obj\Debug\netcoreapp3.1\GoFishGame.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\obj\Debug\netcoreapp3.1\GoFishGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\obj\Debug\netcoreapp3.1\GoFishGame.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\obj\Debug\netcoreapp3.1\GoFishGame.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\obj\Debug\netcoreapp3.1\GoFishGame.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\obj\Debug\netcoreapp3.1\GoFishGame.dll
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\obj\Debug\netcoreapp3.1\GoFishGame.pdb
+C:\Users\8m3xl\source\repos\GoFishGame\GoFishGame\obj\Debug\netcoreapp3.1\GoFishGame.genruntimeconfig.cache
