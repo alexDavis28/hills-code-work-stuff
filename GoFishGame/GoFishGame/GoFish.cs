@@ -7,9 +7,9 @@ namespace CardClasses
     class GoFish
     {
 
-        private GoFishHand[] hands;
-        private Pack pack;
+        private Pack pack = new Pack();
         private int NumHands;
+        private GoFishHand[] hands;
 
         public GoFish(int NumPlayers, int NumComputers)
         {
@@ -26,7 +26,7 @@ namespace CardClasses
             {
                 hands[i] = new PlayerHand();
             }
-            for (int i = 0; i < NumComputers; i++)
+            for (int i = 0+NumPlayers; i < NumPlayers+NumComputers; i++)
             {
                 hands[i] = new ComputerHand();
             }
@@ -58,6 +58,111 @@ namespace CardClasses
         public void  Play()
         {
 
+            string[] rank_names = { "Ace", "Two", "Three", "Four", "Five",
+              "Six","Seven", "Eight", "Nine", "Ten",
+              "Jack","Queen", "King" };
+
+            bool playing = true;
+            while (playing)
+            {
+                foreach (GoFishHand hand in hands)
+                {
+                    hand.DisplayCards();
+                    Console.WriteLine("-------------");
+                }
+                Console.ReadLine();
+
+                bool taking_turn = true;
+                for (int i = 0; i < hands.Length; i++)
+                {
+                    Console.Clear();
+                    Console.WriteLine($"Player {i + 1}'s turn");
+
+                    taking_turn = true;
+                    GoFishHand hand = hands[i];
+                    while (taking_turn)
+                    {
+                        if (hand.GetHandType() == "Player")
+                        {
+                            Console.WriteLine("--------------------------------------------");
+                            Console.WriteLine("These are your cards:");
+                            hand.DisplayCards();
+                            Console.WriteLine("--------------------------------------------");
+                            int requested_rank = hand.RequestCard();
+                            GoFishHand next_player_hand = hands[(i + 1)%hands.Length];
+                            Console.WriteLine("--------------------------------------------");
+                            if (next_player_hand.HasCard(requested_rank))
+                            {
+                                // take card(s) then loop turn
+                                Console.WriteLine("The next player had the card(s)!");
+                                for (int j = 0; j < next_player_hand.Size; j++)
+                                {
+                                    if (next_player_hand[j].GetRank() == requested_rank)
+                                    {
+                                        Card taken_card = next_player_hand.RemoveCard(j);
+                                        hand.AddCard(taken_card);
+                                        Console.WriteLine($"You took a {taken_card.GetName()}");
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("Go Fish!");
+                                Card card_drawn = pack.DealCard();
+                                hand.AddCard(card_drawn);
+                                Console.WriteLine($"You drew a {card_drawn.GetName()}");
+                                if (card_drawn.GetRank() == requested_rank)
+                                {
+                                    Console.WriteLine("You made a catch!");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("Press enter to end your turn");
+                                    Console.ReadLine();
+                                    taking_turn = false;
+                                }
+                            }
+                        }
+                        else if (hand.GetHandType() == "Computer")
+                        {
+                            int requested_rank = hand.RequestCard();
+                            Console.WriteLine($"Player {i+1} requests a {rank_names[requested_rank]}");
+                            GoFishHand next_player_hand = hands[(i + 1) % hands.Length];
+                            if (next_player_hand.HasCard(requested_rank))
+                            {
+                                // take card(s) then loop turn
+                                Console.WriteLine("The next player had the card(s)!");
+                                for (int j = 0; j < next_player_hand.Size; j++)
+                                {
+                                    if (next_player_hand[j].GetRank() == requested_rank)
+                                    {
+                                        Card taken_card = next_player_hand.RemoveCard(j);
+                                        hand.AddCard(taken_card);
+                                        Console.WriteLine($"Player {i + 1} took a {taken_card.GetName()}");
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("Go Fish!");
+                                Card card_drawn = pack.DealCard();
+                                Console.WriteLine($"Player {i + 1} drew a {card_drawn.GetName()}");
+                                hand.AddCard(card_drawn);
+                                if (card_drawn.GetRank() == requested_rank)
+                                {
+                                    Console.WriteLine("Player {i+1} made a catch!");
+                                }
+                                else
+                                {
+                                    Console.WriteLine($"Press enter to end Player {i+1}'s turn");
+                                    Console.ReadLine();
+                                    taking_turn = false;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }

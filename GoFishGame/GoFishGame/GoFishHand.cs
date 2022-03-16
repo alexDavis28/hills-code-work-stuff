@@ -9,6 +9,10 @@ namespace CardClasses
         protected string HandType;
         protected Book[] books;
 
+        public string GetHandType()
+        {
+            return HandType;
+        }
         public int[] GetRanks()
         {
             int[] ranks = new int[Size];
@@ -32,6 +36,5 @@ namespace CardClasses
             return card_present;
         }
         public abstract int RequestCard();
-        public abstract Card RecieveCardRequest(int rank);
     }
 }

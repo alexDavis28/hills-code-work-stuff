@@ -1,4 +1,5 @@
 ﻿using System;
+using CardClasses;
 
 namespace GoFishGame
 {
@@ -6,7 +7,9 @@ namespace GoFishGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            GoFish game = new GoFish(2, 0);
+            game.Deal();
+            game.Play();
         }
     }
 }

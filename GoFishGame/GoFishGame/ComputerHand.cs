@@ -10,9 +10,20 @@ namespace CardClasses
         {
             HandType = "Computer";
         }
-        public override bool HasCard(int rank)
+        public override int RequestCard()
         {
-            throw new NotImplementedException();
+            // request a card of a random rank that exists in the computer's hand
+            Random random = new Random();
+            int requested_rank = -1;
+            while (requested_rank == -1)
+            {
+                requested_rank = random.Next(1, 14);
+                if (!HasCard(requested_rank))
+                {
+                    requested_rank = 0;
+                }
+            }
+            return requested_rank;
         }
     }
 }
