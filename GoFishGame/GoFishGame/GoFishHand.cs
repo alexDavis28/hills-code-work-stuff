@@ -7,12 +7,18 @@ namespace CardClasses
     abstract class GoFishHand : Hand
     {
         protected string HandType;
-        protected Book[] books;
+        protected List<Book> books = new List<Book>();
 
         public string GetHandType()
         {
             return HandType;
         }
+
+        public int BookCount
+        {
+            get { return books.Count; } 
+        }
+
         public int[] GetRanks()
         {
             int[] ranks = new int[Size];
@@ -22,7 +28,7 @@ namespace CardClasses
             }
             return ranks;
         }
-        public bool HasCard(int rank)
+        public bool HasCard(int rank) // check if a card of the specified rank exists in the hand
         {
             bool card_present = false;
             int[] ranks = GetRanks();
@@ -36,5 +42,7 @@ namespace CardClasses
             return card_present;
         }
         public abstract int RequestCard();
+
+        public abstract void FormBooks();
     }
 }

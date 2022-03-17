@@ -13,7 +13,7 @@ namespace CardClasses
 
         public GoFish(int NumPlayers, int NumComputers)
         {
-            NumHands = NumPlayers + NumComputers;
+            NumHands = NumPlayers + NumComputers; // total number of player and ai hands
 
             if (NumHands<2)
             {
@@ -22,6 +22,7 @@ namespace CardClasses
 
             hands = new GoFishHand[NumHands];
 
+            // populate hands array
             for (int i = 0; i < NumPlayers; i++)
             {
                 hands[i] = new PlayerHand();
@@ -34,9 +35,11 @@ namespace CardClasses
 
         public void Deal()
         {
+            // shuffle and deal the cards
             pack.Shuffle();
 
-            int CardsToDeal = 7; ;
+            int CardsToDeal = 7;
+            // If 2 player deal 7 cards each, otherwise deal 5
             if (NumHands>1 && NumHands<3)
             {
                 CardsToDeal = 7;
@@ -73,32 +76,36 @@ namespace CardClasses
                 Console.ReadLine();
 
                 bool taking_turn = true;
-                for (int i = 0; i < hands.Length; i++)
+                for (int i = 0; i < hands.Length; i++) // iterate through each of the hands
                 {
-                    Console.Clear();
-                    Console.WriteLine($"Player {i + 1}'s turn");
 
                     taking_turn = true;
                     GoFishHand hand = hands[i];
-                    while (taking_turn)
+
+                    Console.Clear();
+                    Console.WriteLine($"Player {i + 1}'s turn");
+                    Console.WriteLine($"They have {hand.Size} cards, and {hand.BookCount} complete books.");
+
+                    while (taking_turn) // if the current player makes a catch then this loop repeats
                     {
                         if (hand.GetHandType() == "Player")
                         {
                             Console.WriteLine("--------------------------------------------");
                             Console.WriteLine("These are your cards:");
                             hand.DisplayCards();
+                            int requested_rank = hand.RequestCard(); // Get the player to choose a rank to request
+                            GoFishHand next_player_hand = hands[(i + 1)%hands.Length]; // Check if next player has any cards of that rank
                             Console.WriteLine("--------------------------------------------");
-                            int requested_rank = hand.RequestCard();
-                            GoFishHand next_player_hand = hands[(i + 1)%hands.Length];
-                            Console.WriteLine("--------------------------------------------");
+
                             if (next_player_hand.HasCard(requested_rank))
                             {
                                 // take card(s) then loop turn
                                 Console.WriteLine("The next player had the card(s)!");
-                                for (int j = 0; j < next_player_hand.Size; j++)
+                                for (int j = 0; j < next_player_hand.Size; j++) // Loop through the next player's hand
                                 {
                                     if (next_player_hand[j].GetRank() == requested_rank)
                                     {
+                                        // Any card that is of the rank that is requested is removed from the next player's hand and given to the active player
                                         Card taken_card = next_player_hand.RemoveCard(j);
                                         hand.AddCard(taken_card);
                                         Console.WriteLine($"You took a {taken_card.GetName()}");
@@ -119,16 +126,17 @@ namespace CardClasses
                                 {
                                     Console.WriteLine("Press enter to end your turn");
                                     Console.ReadLine();
-                                    taking_turn = false;
+                                    taking_turn = false; // If they don't make a catch, the loop ends and the next player takes their turn
                                 }
                             }
                         }
                         else if (hand.GetHandType() == "Computer")
                         {
-                            int requested_rank = hand.RequestCard();
-                            Console.WriteLine($"Player {i+1} requests a {rank_names[requested_rank]}");
+                            int requested_rank = hand.RequestCard(); // computer randomly selects a rank to request
+                            Console.WriteLine("--------------------------------------------");
+                            Console.WriteLine($"Player {i+1} requests a {rank_names[requested_rank-1]}");
                             GoFishHand next_player_hand = hands[(i + 1) % hands.Length];
-                            if (next_player_hand.HasCard(requested_rank))
+                            if (next_player_hand.HasCard(requested_rank)) // check if next player has the card
                             {
                                 // take card(s) then loop turn
                                 Console.WriteLine("The next player had the card(s)!");
@@ -150,7 +158,7 @@ namespace CardClasses
                                 hand.AddCard(card_drawn);
                                 if (card_drawn.GetRank() == requested_rank)
                                 {
-                                    Console.WriteLine("Player {i+1} made a catch!");
+                                    Console.WriteLine($"Player {i+1} made a catch!");
                                 }
                                 else
                                 {

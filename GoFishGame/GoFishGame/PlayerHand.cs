@@ -19,6 +19,7 @@ namespace CardClasses
             int requested_rank = -1;
             while (requested_rank == -1)
             {
+                Console.WriteLine("--------------------------------------------");
                 Console.WriteLine("What card rank would you like to request? Enter the number");
                 for (int i = 0; i < rank_names.Length; i++)
                 {
@@ -28,10 +29,15 @@ namespace CardClasses
                 if (!HasCard(requested_rank))
                 {
                     Console.WriteLine("You don't have a card of that rank");
-                    requested_rank = 0;
+                    requested_rank = -1;
                 }
             }
             return requested_rank;
+        }
+
+        public override void FormBooks()
+        {
+            throw new NotImplementedException();
         }
 
     }

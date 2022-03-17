@@ -6,6 +6,8 @@ namespace CardClasses
 {
     class ComputerHand : GoFishHand
     {
+        private Random random = new Random();
+
         public ComputerHand()
         {
             HandType = "Computer";
@@ -13,17 +15,20 @@ namespace CardClasses
         public override int RequestCard()
         {
             // request a card of a random rank that exists in the computer's hand
-            Random random = new Random();
             int requested_rank = -1;
             while (requested_rank == -1)
             {
                 requested_rank = random.Next(1, 14);
                 if (!HasCard(requested_rank))
                 {
-                    requested_rank = 0;
+                    requested_rank = -1;
                 }
             }
             return requested_rank;
+        }
+        public override void FormBooks()
+        {
+            throw new NotImplementedException();
         }
     }
 }
