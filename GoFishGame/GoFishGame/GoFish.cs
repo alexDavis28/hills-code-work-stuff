@@ -58,7 +58,18 @@ namespace CardClasses
             }
         }
 
-        public void  Play()
+        public void EvaluteBooks(GoFishHand hand)
+        {
+            hand.FormBooks();
+            if (hand.BookCount > 0)
+            {
+                Console.WriteLine("--------------------------------------------");
+                Console.WriteLine("You have the following books:");
+                hand.DisplayBooks();
+            }
+        }
+
+        public void Play()
         {
 
             string[] rank_names = { "Ace", "Two", "Three", "Four", "Five",
@@ -68,12 +79,14 @@ namespace CardClasses
             bool playing = true;
             while (playing)
             {
+                /*
                 foreach (GoFishHand hand in hands)
                 {
                     hand.DisplayCards();
                     Console.WriteLine("-------------");
                 }
                 Console.ReadLine();
+                */
 
                 bool taking_turn = true;
                 for (int i = 0; i < hands.Length; i++) // iterate through each of the hands
@@ -82,12 +95,15 @@ namespace CardClasses
                     taking_turn = true;
                     GoFishHand hand = hands[i];
 
-                    Console.Clear();
-                    Console.WriteLine($"Player {i + 1}'s turn");
-                    Console.WriteLine($"They have {hand.Size} cards, and {hand.BookCount} complete books.");
+
 
                     while (taking_turn) // if the current player makes a catch then this loop repeats
                     {
+                        Console.Clear();
+                        Console.WriteLine($"Player {i + 1}'s turn");
+                        Console.WriteLine($"You have {hand.Size} cards, and {hand.BookCount} complete books.");
+                        EvaluteBooks(hand);
+
                         if (hand.GetHandType() == "Player")
                         {
                             Console.WriteLine("--------------------------------------------");
@@ -124,8 +140,6 @@ namespace CardClasses
                                 }
                                 else
                                 {
-                                    Console.WriteLine("Press enter to end your turn");
-                                    Console.ReadLine();
                                     taking_turn = false; // If they don't make a catch, the loop ends and the next player takes their turn
                                 }
                             }
@@ -162,13 +176,15 @@ namespace CardClasses
                                 }
                                 else
                                 {
-                                    Console.WriteLine($"Press enter to end Player {i+1}'s turn");
-                                    Console.ReadLine();
                                     taking_turn = false;
                                 }
                             }
                         }
+                        Console.WriteLine("Press enter to end your turn");
+                        Console.ReadLine();
                     }
+
+                    EvaluteBooks(hand);
                 }
             }
         }

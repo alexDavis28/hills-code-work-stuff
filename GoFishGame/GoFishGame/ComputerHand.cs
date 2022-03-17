@@ -26,9 +26,5 @@ namespace CardClasses
             }
             return requested_rank;
         }
-        public override void FormBooks()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
