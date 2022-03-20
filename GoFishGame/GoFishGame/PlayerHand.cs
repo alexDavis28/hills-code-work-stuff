@@ -25,7 +25,7 @@ namespace CardClasses
                 {
                     Console.WriteLine($"{i + 1}: {rank_names[i]}");
                 }
-                requested_rank = int.Parse(Console.ReadLine());
+                bool valid_rank = int.TryParse(Console.ReadLine(), out requested_rank);
                 if (!HasCard(requested_rank))
                 {
                     Console.WriteLine("You don't have a card of that rank");
