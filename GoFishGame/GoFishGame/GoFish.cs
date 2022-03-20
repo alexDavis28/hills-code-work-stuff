@@ -88,11 +88,11 @@ namespace CardClasses
                         Console.WriteLine($"They have {hand.Size} cards, and {hand.BookCount} complete books.");
                         EvaluteBooks(hand);
 
-                        Console.WriteLine("--------------------------------------------");
                         if (hand.GetHandType() == "Player") // only show cards if it's the turn of a human player
                         {
-                        Console.WriteLine($"Player {i + 1}'s cards:");
-                        hand.DisplayCards();
+                            Console.WriteLine("--------------------------------------------");
+                            Console.WriteLine($"Player {i + 1}'s cards:");
+                            hand.DisplayCards();
                         }
                         // If the hand belongs to a human player it will ask them to enter a rank to request, but if it's an "ai" it will randomly select a rank
                         int requested_rank = hand.RequestCard();
