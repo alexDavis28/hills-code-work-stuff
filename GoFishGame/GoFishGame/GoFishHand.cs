@@ -20,7 +20,7 @@ namespace CardClasses
             get { return books.Count; } 
         }
 
-        public int[] GetRanks() // list of unique ranks of cards in hand
+        public int[] GetRanks() // list of ranks of cards in hand
         {
             int[] ranks = new int[Size];
             for (int i = 0; i < Size; i++)
@@ -30,7 +30,7 @@ namespace CardClasses
             return ranks;
         }
 
-        public int[] GetUniqueRanks()
+        public int[] GetUniqueRanks() // list of unique ranks in hand
         {
             int[] ranks = new int[Size];
             for (int i = 0; i < Size; i++)
@@ -54,7 +54,7 @@ namespace CardClasses
             return card_present;
         }
 
-        public void FormBooks()
+        public void FormBooks() // Check through all ranks that exist in the hand, then if the full book of 4 cards exists in the hand remove those cards and store them in a book
         {
             foreach (int rank in GetUniqueRanks())
             {
@@ -62,7 +62,7 @@ namespace CardClasses
 
                 int count = 0;
 
-                foreach (Card card in cards)
+                foreach (Card card in cards) // Count how many cards of rank "rank" are in the hand
                 {
                     if (rank == card.GetRank())
                     {
@@ -70,18 +70,18 @@ namespace CardClasses
                     }
                 }
 
-                if (count==4)
+                if (count==4) // If there is a full book:
                 {
                     int j = 0;
                     while (book.Size<4)
                     {
                         if (cards[j%Size].GetRank()==rank)
                         {
-                            book.AddCard(RemoveCard(j % Size));
+                            book.AddCard(RemoveCard(j % Size)); // Add each card of the rank to a book and remove those cards from the hand
                         }
                         j++;
                     }
-                    books.Add(book);
+                    books.Add(book); // store the mew book
                 }
             }
         }

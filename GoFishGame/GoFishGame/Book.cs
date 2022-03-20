@@ -9,7 +9,7 @@ namespace CardClasses
         // Book class for the sets of 4 cards of the same rank that are needed to win
         // Functions pretty much as a hand that will only have 4 cards
 
-        private int rank; // rank of the book
+        private int rank; // rank of the cards in the book
         public int GetRank()
         {
             return rank;
@@ -20,7 +20,7 @@ namespace CardClasses
             string[] ranks = { "Ace", "Two", "Three", "Four", "Five",
               "Six","Seven", "Eight", "Nine", "Ten",
               "Jack","Queen", "King" };
-            return ranks[rank - 1] + "s";
+            return ranks[rank - 1];
         }
 
         public Book(int r)
