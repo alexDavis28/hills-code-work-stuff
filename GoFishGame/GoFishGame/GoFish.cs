@@ -143,7 +143,6 @@ namespace CardClasses
                         {
                             Console.WriteLine("Go Fish!");
                             Card card_drawn = pack.DealCard();
-                            Console.WriteLine(pack.Size);
                             if (card_drawn != null)
                             {
                                 Console.WriteLine($"Player {i + 1} drew a {card_drawn.GetName()}");
@@ -164,10 +163,16 @@ namespace CardClasses
                                 break;
                             }
                         }
+                        int book_count = hand.BookCount;
+                        hand.FormBooks();
+                        if (hand.BookCount > book_count)
+                        {
+                            EvaluteBooks(hand);
+                        }
+                        Console.WriteLine("--------------------------------------------");
                         Console.WriteLine("Press enter to end the current turn");
                         Console.ReadLine();
                     }
-                    EvaluteBooks(hand);
                 }
             }
         }
