@@ -21,12 +21,16 @@ namespace CardClasses
             {
                 Console.WriteLine("--------------------------------------------");
                 Console.WriteLine("What card rank would you like to request? Enter the number");
+
                 for (int i = 0; i < rank_names.Length; i++)
                 {
-                    Console.WriteLine($"{i + 1}: {rank_names[i]}");
+                    if (HasCard(i+1))
+                    {
+                        Console.WriteLine($"{i + 1}: {rank_names[i]}");
+                    }
                 }
                 bool valid_rank = int.TryParse(Console.ReadLine(), out requested_rank);
-                if (!HasCard(requested_rank))
+                if (!HasCard(requested_rank) || !valid_rank)
                 {
                     Console.WriteLine("You don't have a card of that rank");
                     requested_rank = -1;
