@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CardClasses.Book" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAQAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardClasses.Card" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAAAAQAAQAAAAQAAIAAAAAAAAAAAAAAAgAAABAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardClasses.ComputerHand" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAABAA=</HashCode>
+      <FileName>ComputerHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardClasses.GoFish" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAQAAAAAAAEAAAAAAAAAAAAgAAIAAAQAgA=</HashCode>
+      <FileName>GoFish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardClasses.GoFishHand" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACEAAACUAAgAAAAEAAAAAAAQABAABAA=</HashCode>
+      <FileName>GoFishHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardClasses.Hand" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAAAkQQACAgAAAgAgAAAAAAAAAACAABAAAA=</HashCode>
+      <FileName>Hand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardClasses.Pack" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABEIAAAABAAgAAAAIAACAAAAAAAAAAIBAAAAAAAEAA=</HashCode>
+      <FileName>Pack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardClasses.PlayerHand" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>PlayerHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoFishGame.Program" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
