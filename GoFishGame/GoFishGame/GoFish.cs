@@ -64,7 +64,7 @@ namespace CardClasses
             if (hand.BookCount > 0)
             {
                 Console.WriteLine("--------------------------------------------");
-                Console.WriteLine("You have the following books:");
+                Console.WriteLine("Books:");
                 hand.DisplayBooks();
             }
         }
@@ -101,13 +101,13 @@ namespace CardClasses
                     {
                         Console.Clear();
                         Console.WriteLine($"Player {i + 1}'s turn");
-                        Console.WriteLine($"You have {hand.Size} cards, and {hand.BookCount} complete books.");
+                        Console.WriteLine($"They have {hand.Size} cards, and {hand.BookCount} complete books.");
                         EvaluteBooks(hand);
 
                         if (hand.GetHandType() == "Player")
                         {
                             Console.WriteLine("--------------------------------------------");
-                            Console.WriteLine("These are your cards:");
+                            Console.WriteLine($"Player {i + 1}'s cards:");
                             hand.DisplayCards();
                             int requested_rank = hand.RequestCard(); // Get the player to choose a rank to request
                             GoFishHand next_player_hand = hands[(i + 1)%hands.Length]; // Check if next player has any cards of that rank
@@ -124,7 +124,7 @@ namespace CardClasses
                                         // Any card that is of the rank that is requested is removed from the next player's hand and given to the active player
                                         Card taken_card = next_player_hand.RemoveCard(j);
                                         hand.AddCard(taken_card);
-                                        Console.WriteLine($"You took a {taken_card.GetName()}");
+                                        Console.WriteLine($"Player {i + 1} took a {taken_card.GetName()}");
                                     }
                                 }
                             }
@@ -133,10 +133,10 @@ namespace CardClasses
                                 Console.WriteLine("Go Fish!");
                                 Card card_drawn = pack.DealCard();
                                 hand.AddCard(card_drawn);
-                                Console.WriteLine($"You drew a {card_drawn.GetName()}");
+                                Console.WriteLine($"Player {i + 1} drew a {card_drawn.GetName()}");
                                 if (card_drawn.GetRank() == requested_rank)
                                 {
-                                    Console.WriteLine("You made a catch!");
+                                    Console.WriteLine($"Player {i + 1} made a catch!");
                                 }
                                 else
                                 {
@@ -168,22 +168,32 @@ namespace CardClasses
                             {
                                 Console.WriteLine("Go Fish!");
                                 Card card_drawn = pack.DealCard();
-                                Console.WriteLine($"Player {i + 1} drew a {card_drawn.GetName()}");
-                                hand.AddCard(card_drawn);
-                                if (card_drawn.GetRank() == requested_rank)
+                                Console.WriteLine(pack.Size);
+                                if (card_drawn != null)
                                 {
-                                    Console.WriteLine($"Player {i+1} made a catch!");
+                                    Console.WriteLine($"Player {i + 1} drew a {card_drawn.GetName()}");
+                                    hand.AddCard(card_drawn);
+                                    if (card_drawn.GetRank() == requested_rank)
+                                    {
+                                        Console.WriteLine($"Player {i + 1} made a catch!");
+                                    }
+                                    else
+                                    {
+                                        taking_turn = false;
+                                    }
                                 }
                                 else
                                 {
+                                    Console.WriteLine("No cards left in deck, game ends");
                                     taking_turn = false;
+                                    playing = false;
+                                    break;
                                 }
                             }
                         }
-                        Console.WriteLine("Press enter to end your turn");
+                        Console.WriteLine("Press enter to end the current turn");
                         Console.ReadLine();
                     }
-
                     EvaluteBooks(hand);
                 }
             }
