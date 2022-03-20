@@ -90,7 +90,7 @@ namespace CardClasses
         {
             foreach (Book book in books)
             {
-                book.DisplayCards();
+                Console.WriteLine($"Book of {book.GetRankAsString()}");
             }
         }
 
