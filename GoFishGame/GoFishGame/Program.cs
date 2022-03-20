@@ -7,7 +7,7 @@ namespace GoFishGame
     {
         static void Main(string[] args)
         {
-            GoFish game = new GoFish(1, 3);
+            GoFish game = new GoFish(0, 3);
             game.Deal();
             game.Play();
         }

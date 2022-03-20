@@ -158,23 +158,89 @@ namespace CardClasses
                             }
                             else
                             {
-                                Console.WriteLine("No cards left in deck, game ends");
+                                Console.WriteLine("No cards left in deck, game finishes.\nPress enter to end game");
+                                Console.ReadLine();
+                                taking_turn = false;
                                 playing = false;
-                                break;
+                                EndGame();
                             }
                         }
+
                         int book_count = hand.BookCount;
                         hand.FormBooks();
                         if (hand.BookCount > book_count)
                         {
                             EvaluteBooks(hand);
                         }
+
+                        if (hand.Size==0) // fix for issue of forming a book leaving no cards left in hand
+                        {
+                            Console.WriteLine($"Player {i + 1} has no cards remaining, so draws a new card");
+                            Card card_drawn = pack.DealCard();
+                            if (card_drawn != null)
+                            {
+                                Console.WriteLine($"Player {i + 1} drew a {card_drawn.GetName()}");
+                                hand.AddCard(card_drawn);
+                            }
+                            else
+                            {
+                                Console.WriteLine("No cards left in deck, game finishes.\nPress enter to end game");
+                                Console.ReadLine();
+                                taking_turn = false;
+                                playing = false;
+                                EndGame();
+                            }
+                        }
+
+
                         Console.WriteLine("--------------------------------------------");
                         Console.WriteLine("Press enter to end the current turn");
                         Console.ReadLine();
                     }
                 }
             }
+        }
+
+        public void EndGame()
+        {
+            Console.Clear();
+            // Display final scores
+
+            Console.WriteLine("Final Scores:");
+            for (int i = 0; i < hands.Length; i++)
+            {
+                Console.WriteLine($"Player {i+1}: {hands[i].BookCount} books");
+            }
+
+            // Find hand with highest number of books
+
+            int winner_index = -1;
+            int winner_book_count = -1;
+            bool tie = false;
+
+            for (int i = 0; i < hands.Length; i++)
+            {
+                if (hands[i].BookCount > winner_book_count)
+                {
+                    winner_index = i;
+                    winner_book_count = hands[i].BookCount;
+                }
+                else if (hands[i].BookCount == winner_book_count)
+                {
+                    tie = true;
+                }
+            }
+            if (tie)
+            {
+                Console.WriteLine("The game ends in a tie");
+            }
+            else
+            {
+                Console.WriteLine($"Player {winner_index+1} wins!");
+            }
+
+            Console.ReadLine();
+            System.Environment.Exit(1);
         }
     }
 }
