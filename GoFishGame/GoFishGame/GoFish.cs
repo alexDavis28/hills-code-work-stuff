@@ -190,7 +190,7 @@ namespace CardClasses
 
             // Find hand with highest number of books
             int winner_index = -1;
-            int winner_book_count = -1;
+            int winner_book_count = 0;
             bool tie = false;
 
             for (int i = 0; i < hands.Length; i++)
@@ -200,11 +200,18 @@ namespace CardClasses
                     winner_index = i;
                     winner_book_count = hands[i].BookCount;
                 }
-                else if (hands[i].BookCount == winner_book_count)
+            }
+
+            int c = 0;
+            for (int i = 0; i < hands.Length; i++)
+            {
+                if (hands[i].BookCount==winner_book_count)
                 {
-                    tie = true;
+                    c++;
                 }
             }
+            tie = c > 1; // if the highest score appears more than once it's a tie
+
             if (tie)
             {
                 Console.WriteLine("The game ends in a tie");
