@@ -1,0 +1,16 @@
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\bin\Debug\netcoreapp3.1\MyCalculatorFormsApp.exe
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\bin\Debug\netcoreapp3.1\MyCalculatorFormsApp.deps.json
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\bin\Debug\netcoreapp3.1\MyCalculatorFormsApp.runtimeconfig.json
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\bin\Debug\netcoreapp3.1\MyCalculatorFormsApp.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\bin\Debug\netcoreapp3.1\MyCalculatorFormsApp.dll
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\bin\Debug\netcoreapp3.1\MyCalculatorFormsApp.pdb
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.dll
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.pdb
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.genruntimeconfig.cache
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.CalculatorForm.resources
+C:\Users\8m3xl\source\repos\MyCalculatorFormsApp\MyCalculatorFormsApp\obj\Debug\netcoreapp3.1\MyCalculatorFormsApp.csproj.GenerateResource.cache
