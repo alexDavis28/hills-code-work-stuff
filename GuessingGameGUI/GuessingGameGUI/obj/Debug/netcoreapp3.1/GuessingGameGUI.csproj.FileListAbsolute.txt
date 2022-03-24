@@ -1,0 +1,17 @@
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\bin\Debug\netcoreapp3.1\GuessingGameGUI.exe
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\bin\Debug\netcoreapp3.1\GuessingGameGUI.deps.json
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\bin\Debug\netcoreapp3.1\GuessingGameGUI.runtimeconfig.json
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\bin\Debug\netcoreapp3.1\GuessingGameGUI.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\bin\Debug\netcoreapp3.1\GuessingGameGUI.dll
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\bin\Debug\netcoreapp3.1\GuessingGameGUI.pdb
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.ComputerGuessForm.resources
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.MainForm.resources
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.csproj.GenerateResource.cache
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.dll
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.pdb
+C:\Users\8m3xl\source\repos\GuessingGameGUI\GuessingGameGUI\obj\Debug\netcoreapp3.1\GuessingGameGUI.genruntimeconfig.cache
