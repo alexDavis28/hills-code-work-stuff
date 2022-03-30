@@ -52,6 +52,7 @@ namespace GuessingGameGUI
             this.TooLowButton.TabIndex = 1;
             this.TooLowButton.Text = "Too low";
             this.TooLowButton.UseVisualStyleBackColor = true;
+            this.TooLowButton.Click += new System.EventHandler(this.TooLowButton_Click);
             // 
             // CorrectButton
             // 
@@ -61,6 +62,7 @@ namespace GuessingGameGUI
             this.CorrectButton.TabIndex = 2;
             this.CorrectButton.Text = "Correct";
             this.CorrectButton.UseVisualStyleBackColor = true;
+            this.CorrectButton.Click += new System.EventHandler(this.CorrectButton_Click);
             // 
             // TooHighButton
             // 
@@ -70,6 +72,7 @@ namespace GuessingGameGUI
             this.TooHighButton.TabIndex = 3;
             this.TooHighButton.Text = "Too high";
             this.TooHighButton.UseVisualStyleBackColor = true;
+            this.TooHighButton.Click += new System.EventHandler(this.TooHighButton_Click);
             // 
             // ComputerGuessForm
             // 
@@ -82,6 +85,7 @@ namespace GuessingGameGUI
             this.Controls.Add(this.GuessLabel);
             this.Name = "ComputerGuessForm";
             this.Text = "ComputerGuessForm";
+            this.Load += new System.EventHandler(this.ComputerGuessForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
