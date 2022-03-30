@@ -103,6 +103,7 @@ namespace GuessingGameGUI
             this.NewButton.TabIndex = 1;
             this.NewButton.Text = "New";
             this.NewButton.UseVisualStyleBackColor = true;
+            this.NewButton.Click += new System.EventHandler(this.NewButton_Click);
             // 
             // label1
             // 
@@ -128,6 +129,7 @@ namespace GuessingGameGUI
             this.GuessTextBox.Name = "GuessTextBox";
             this.GuessTextBox.Size = new System.Drawing.Size(125, 27);
             this.GuessTextBox.TabIndex = 4;
+            this.GuessTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.GuessTextBox_KeyPress);
             // 
             // GuessButton
             // 
@@ -137,6 +139,7 @@ namespace GuessingGameGUI
             this.GuessButton.TabIndex = 5;
             this.GuessButton.Text = "Guess";
             this.GuessButton.UseVisualStyleBackColor = true;
+            this.GuessButton.Click += new System.EventHandler(this.GuessButton_Click);
             // 
             // GuessesListBox
             // 
