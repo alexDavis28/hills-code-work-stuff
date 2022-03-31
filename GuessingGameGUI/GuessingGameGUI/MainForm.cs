@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace GuessingGameGUI
 {
@@ -89,6 +90,38 @@ namespace GuessingGameGUI
         private void NewButton_Click(object sender, EventArgs e)
         {
             NewGame();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void newToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            NewGame();
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // save: number, guesses, num_guesses_left
+
+            String data = Convert.ToString(Number) + "\n" + Convert.ToString(GuessesLeft) + "\n";
+            foreach (object item in GuessesListBox.Items)
+            {
+                data += Convert.ToString(item);
+                data += "\n";
+            }
+
+            SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+            saveFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            saveFileDialog1.FilterIndex = 0;
+
+            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                // Code to write the stream goes here.
+                File.WriteAllText(saveFileDialog1.FileName, data);
+            }
         }
 
         public MainForm()
