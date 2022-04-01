@@ -51,6 +51,25 @@ namespace GuessingGameGUI
             GuessTextBox.Focus();
         }
 
+        private void NewGame(int LoadedNumber, int LoadedGuessesLeft, List<string> LoadedGuesses)
+        {
+            random = new Random();
+            GuessesLeft = LoadedGuessesLeft;
+            GuessesLeftLabel.Text = Convert.ToString(GuessesLeft);
+            GuessesListBox.Items.Clear();
+            Number = LoadedNumber;
+            ResponseLabel.Visible = false;
+            GuessButton.Enabled = true;
+            MeRadioButton.Checked = true;
+            GuessTextBox.Focus();
+
+            foreach (string guess in LoadedGuesses)
+            {
+                GuessesListBox.Items.Add(guess);
+            }
+
+        }
+
         private void GuessButton_Click(object sender, EventArgs e)
         {
             int Guess = Convert.ToInt32(GuessTextBox.Text);
@@ -119,9 +138,40 @@ namespace GuessingGameGUI
 
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                // Code to write the stream goes here.
                 File.WriteAllText(saveFileDialog1.FileName, data);
             }
+        }
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int number = 50, guesses_left = 10;
+            List<String> guesses = new List<string> { };
+            int counter = 0;
+
+            OpenFileDialog OFD = new OpenFileDialog();
+            OFD.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            OFD.FilterIndex = 0;
+
+            if (OFD.ShowDialog() == DialogResult.OK)
+            {
+                foreach (string line in File.ReadLines(OFD.FileName))
+                {
+                    if (counter==0)
+                    {
+                        number = Convert.ToInt32(line);
+                    }
+                    else if (counter==1)
+                    {
+                        guesses_left = Convert.ToInt32(line);
+                    }
+                    else
+                    {
+                        guesses.Add(line);
+                    }
+                    counter++;
+                }
+            }
+            NewGame(number, guesses_left, guesses);
         }
 
         public MainForm()
