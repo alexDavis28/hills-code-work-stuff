@@ -1,0 +1,47 @@
+\\hr-storage1\homefolder\cvillaverde\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.TicTacToeForm.resources
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\bin\Debug\TicTacToe.exe.config
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\obj\Debug\TicTacToe.exe
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\obj\Debug\TicTacToe.pdb
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\bin\Debug\TicTacToe.exe
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\bin\Debug\TicTacToe.pdb
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\obj\Debug\TicTacToe.TicTacToeForm.resources
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - complete\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.exe.config
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.exe
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.pdb
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.TicTacToeForm.resources
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.exe
+\\hr-storage1\HomeFolder\CVillaverde\Documents\Visual Studio 2015\Projects\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.TicTacToeForm.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.TicTacToeForm.resources
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\8m3xl\source\repos\TicTacToe - basic\TicTacToe\obj\Debug\TicTacToe.pdb
