@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace TicTacToe
 {
+
+    // to do: draw, disable after end, change starting symbol
     public partial class TicTacToeForm : Form
     {
         private string NoughtOrCross;

@@ -1,0 +1,14 @@
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\bin\Debug\netcoreapp3.1\WordFormingProblem.exe
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\bin\Debug\netcoreapp3.1\WordFormingProblem.deps.json
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\bin\Debug\netcoreapp3.1\WordFormingProblem.runtimeconfig.json
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\bin\Debug\netcoreapp3.1\WordFormingProblem.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\bin\Debug\netcoreapp3.1\WordFormingProblem.dll
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\bin\Debug\netcoreapp3.1\WordFormingProblem.pdb
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\obj\Debug\netcoreapp3.1\WordFormingProblem.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\obj\Debug\netcoreapp3.1\WordFormingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\obj\Debug\netcoreapp3.1\WordFormingProblem.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\obj\Debug\netcoreapp3.1\WordFormingProblem.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\obj\Debug\netcoreapp3.1\WordFormingProblem.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\obj\Debug\netcoreapp3.1\WordFormingProblem.dll
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\obj\Debug\netcoreapp3.1\WordFormingProblem.pdb
+C:\Users\8m3xl\source\repos\WordFormingProblem\WordFormingProblem\obj\Debug\netcoreapp3.1\WordFormingProblem.genruntimeconfig.cache
