@@ -1,0 +1,48 @@
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\bin\Debug\BlackJackGUI.exe.config
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\bin\Debug\BlackJackGUI.exe
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\bin\Debug\BlackJackGUI.pdb
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.FormBlackJack.resources
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.Properties.Resources.resources
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.csproj.GenerateResource.Cache
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.exe
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.pdb
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.csprojResolveAssemblyReference.cache
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\bin\Debug\BlackJackGUI.exe.config
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\bin\Debug\BlackJackGUI.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\bin\Debug\BlackJackGUI.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.csprojResolveAssemblyReference.cache
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\CardGameGUI.FormBlackJack.resources
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.Properties.Resources.resources
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\obj\Debug\BlackJackGUI.csproj.GenerateResource.Cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\bin\Debug\BlackJackGUI.exe.config
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\bin\Debug\BlackJackGUI.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\bin\Debug\BlackJackGUI.pdb
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\obj\Debug\BlackJackGUI.csprojAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\obj\Debug\CardGameGUI.FormBlackJack.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\obj\Debug\BlackJackGUI.Properties.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\obj\Debug\BlackJackGUI.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\obj\Debug\BlackJackGUI.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\obj\Debug\BlackJackGUI.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv1\CardGameGUI\obj\Debug\BlackJackGUI.pdb
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\bin\Debug\BlackJackGUI.exe.config
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\bin\Debug\BlackJackGUI.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\bin\Debug\BlackJackGUI.pdb
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.csprojAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\obj\Debug\CardGameGUI.FormBlackJack.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.Properties.Resources.resources
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.exe
+C:\Users\carlo\Documents\Visual Studio 2019\Projects\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.pdb
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\bin\Debug\BlackJackGUI.exe.config
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\bin\Debug\BlackJackGUI.exe
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\bin\Debug\BlackJackGUI.pdb
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\obj\Debug\CardGameGUI.FormBlackJack.resources
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.Properties.Resources.resources
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.csproj.GenerateResource.cache
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.exe
+C:\Users\8m3xl\source\repos\CardGameGUIv0\CardGameGUI\obj\Debug\BlackJackGUI.pdb

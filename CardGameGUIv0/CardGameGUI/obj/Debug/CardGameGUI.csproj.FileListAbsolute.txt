@@ -1,0 +1,2 @@
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\bin\Debug\CardGameGUI.exe.config
+\\hrsfc.ac.uk\staff\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\CardGameGUI\CardGameGUI\bin\Debug\BlackJackGUI.exe.config
