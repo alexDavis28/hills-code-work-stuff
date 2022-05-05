@@ -32,7 +32,7 @@
             this.NewGameButton = new System.Windows.Forms.Button();
             this.Player1DealButton = new System.Windows.Forms.Button();
             this.P1CurrentScoreLabel = new System.Windows.Forms.Label();
-            this.imageList = new System.Windows.Forms.ImageList(this.components);
+            this.P1ImageList = new System.Windows.Forms.ImageList(this.components);
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -42,6 +42,8 @@
             this.label5 = new System.Windows.Forms.Label();
             this.P2CurrentScoreLabel = new System.Windows.Forms.Label();
             this.Player2DealButton = new System.Windows.Forms.Button();
+            this.P2ImageList = new System.Windows.Forms.ImageList(this.components);
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.SuspendLayout();
             // 
             // NewGameButton
@@ -77,11 +79,11 @@
             this.P1CurrentScoreLabel.TabIndex = 3;
             this.P1CurrentScoreLabel.Text = "0";
             // 
-            // imageList
+            // P1ImageList
             // 
-            this.imageList.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
-            this.imageList.ImageSize = new System.Drawing.Size(16, 16);
-            this.imageList.TransparentColor = System.Drawing.Color.Transparent;
+            this.P1ImageList.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
+            this.P1ImageList.ImageSize = new System.Drawing.Size(16, 16);
+            this.P1ImageList.TransparentColor = System.Drawing.Color.Transparent;
             // 
             // label1
             // 
@@ -177,6 +179,18 @@
             this.Player2DealButton.UseVisualStyleBackColor = true;
             this.Player2DealButton.Click += new System.EventHandler(this.Player2DealButton_Click);
             // 
+            // P2ImageList
+            // 
+            this.P2ImageList.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
+            this.P2ImageList.ImageSize = new System.Drawing.Size(16, 16);
+            this.P2ImageList.TransparentColor = System.Drawing.Color.Transparent;
+            // 
+            // imageList1
+            // 
+            this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
+            this.imageList1.ImageSize = new System.Drawing.Size(16, 16);
+            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            // 
             // FormBlackJack
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -209,7 +223,7 @@
         private System.Windows.Forms.Button NewGameButton;
         private System.Windows.Forms.Button Player1DealButton;
         private System.Windows.Forms.Label P1CurrentScoreLabel;
-        private System.Windows.Forms.ImageList imageList;
+        private System.Windows.Forms.ImageList P1ImageList;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
@@ -219,6 +233,8 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label P2CurrentScoreLabel;
         private System.Windows.Forms.Button Player2DealButton;
+        private System.Windows.Forms.ImageList P2ImageList;
+        private System.Windows.Forms.ImageList imageList1;
     }
 }
 

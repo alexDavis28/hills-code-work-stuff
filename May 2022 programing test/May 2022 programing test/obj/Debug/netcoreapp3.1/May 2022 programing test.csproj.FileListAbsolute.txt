@@ -1,0 +1,13 @@
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\obj\Debug\netcoreapp3.1\May 2022 programing test.csproj.AssemblyReference.cache
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\obj\Debug\netcoreapp3.1\May 2022 programing test.AssemblyInfoInputs.cache
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\obj\Debug\netcoreapp3.1\May 2022 programing test.AssemblyInfo.cs
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\obj\Debug\netcoreapp3.1\May 2022 programing test.csproj.CoreCompileInputs.cache
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\bin\Debug\netcoreapp3.1\May 2022 programing test.exe
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\bin\Debug\netcoreapp3.1\May 2022 programing test.deps.json
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\bin\Debug\netcoreapp3.1\May 2022 programing test.runtimeconfig.json
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\bin\Debug\netcoreapp3.1\May 2022 programing test.runtimeconfig.dev.json
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\bin\Debug\netcoreapp3.1\May 2022 programing test.dll
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\bin\Debug\netcoreapp3.1\May 2022 programing test.pdb
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\obj\Debug\netcoreapp3.1\May 2022 programing test.dll
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\obj\Debug\netcoreapp3.1\May 2022 programing test.pdb
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test\May 2022 programing test\obj\Debug\netcoreapp3.1\May 2022 programing test.genruntimeconfig.cache

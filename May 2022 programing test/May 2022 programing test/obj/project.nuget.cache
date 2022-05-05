@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCAFNTTTDKm+/1sZ2aLuwLUb0fa4wj3NkiWutbSUBo1S8DY2ATzfL+5AbQ9R6cEmJsaUEiPjt7LjXNYksmWRWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ad137148\\OneDrive - Hills Road Sixth Form College\\May 2022 programing test\\May 2022 programing test\\May 2022 programing test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ad137148\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\bin\Debug\netcoreapp3.1\May 2022 programing test Q3.exe
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\bin\Debug\netcoreapp3.1\May 2022 programing test Q3.deps.json
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\bin\Debug\netcoreapp3.1\May 2022 programing test Q3.runtimeconfig.json
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\bin\Debug\netcoreapp3.1\May 2022 programing test Q3.runtimeconfig.dev.json
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\bin\Debug\netcoreapp3.1\May 2022 programing test Q3.dll
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\bin\Debug\netcoreapp3.1\May 2022 programing test Q3.pdb
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\obj\Debug\netcoreapp3.1\May 2022 programing test Q3.csproj.AssemblyReference.cache
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\obj\Debug\netcoreapp3.1\May 2022 programing test Q3.AssemblyInfoInputs.cache
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\obj\Debug\netcoreapp3.1\May 2022 programing test Q3.AssemblyInfo.cs
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\obj\Debug\netcoreapp3.1\May 2022 programing test Q3.csproj.CoreCompileInputs.cache
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\obj\Debug\netcoreapp3.1\May 2022 programing test Q3.dll
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\obj\Debug\netcoreapp3.1\May 2022 programing test Q3.pdb
+C:\Users\ad137148\OneDrive - Hills Road Sixth Form College\May 2022 programing test Q3\May 2022 programing test Q3\obj\Debug\netcoreapp3.1\May 2022 programing test Q3.genruntimeconfig.cache

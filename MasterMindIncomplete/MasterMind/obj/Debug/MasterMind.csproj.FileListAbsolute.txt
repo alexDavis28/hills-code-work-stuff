@@ -1,0 +1,22 @@
+\\hr-storage1\homefolder\icrosby\documents\visual studio 2015\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.FormMM.resources
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.Cache
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMindIncomplete\MasterMind\bin\Debug\MasterMind.exe.config
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.exe
+\\hr-storage1\HomeFolder\icrosby\Documents\Visual Studio 2015\Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.FormMM.resources
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.pdb
