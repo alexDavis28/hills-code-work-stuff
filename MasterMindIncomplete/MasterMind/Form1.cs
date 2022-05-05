@@ -22,7 +22,7 @@ namespace MasterMind
 
 public partial class FormMM : Form
     {
-        enum PegColour { grey, red, yellow, blue, green, purple };
+        enum PegColour { grey, red, yellow, blue, green, purple, cyan, fuchsia, orange};
         enum ScorePegColour { grey, black, white };
         private PegColour[] Data = new PegColour[40];
         private PegColour[] solution = new PegColour[4];
@@ -30,6 +30,9 @@ public partial class FormMM : Form
         DBPanel pegBoard;
         int currentRow;
         Random rand = new Random();
+
+        string solution_output = "";    
+        
 
         public FormMM()
         {
@@ -58,7 +61,16 @@ public partial class FormMM : Form
                     break;
                 case PegColour.purple:
                     return Color.Purple;
-                    break;            
+                    break;
+                case PegColour.cyan:
+                    return Color.Cyan;
+                    break;
+                case PegColour.fuchsia:
+                    return Color.Fuchsia;
+                    break;
+                case PegColour.orange:
+                    return Color.Orange;
+                    break;
                 default:
                     return Color.DarkGray;
                     break;
@@ -112,7 +124,7 @@ public partial class FormMM : Form
                 int col = (e.X - 15) / 30;
                 int index = 36 - (row * 4) + col;
                 Data[index]++;
-                Data[index] = (PegColour)(((int)Data[index]) % 7);
+                Data[index] = (PegColour)(((int)Data[index]) % 9);
                 pegBoard.Invalidate();
             }
 
@@ -127,7 +139,40 @@ public partial class FormMM : Form
 
             black = 0;
             white = 0;
-            
+
+            for (int i = 0; i < 4; i++)
+            {
+                if (Data[rownum*4 + i] == solution[i])
+                {
+                    black++;
+                }
+            }
+            PegColour[] checked_colours = new PegColour[4];
+
+            for (int i = 0; i < 4; i++)
+            {
+                PegColour current_peg = Data[rownum * 4 + i];
+
+                if (AInB(current_peg, solution) && !(current_peg == solution[i]) && !AInB(current_peg, checked_colours))
+                {
+                    white++;
+                    checked_colours[i] = current_peg;
+                }
+            }
+
+        }
+
+        private bool AInB(PegColour A, PegColour[] B)
+        {
+            bool result = false;
+            foreach (PegColour C in B)
+            {
+                if (C == A)
+                {
+                    result = true;
+                }
+            }
+            return result;
         }
 
         bool WholeRowIsClicked(int guessNum)
@@ -174,13 +219,13 @@ public partial class FormMM : Form
                 scoreboard.Invalidate();
                 if (black == 4)
                 {
-                    MessageBox.Show("Well done. You have cracked the code");
+                    MessageBox.Show($"Well done. You have cracked the code.\nThat took you {currentRow+1} guesses.");
                     buttonCheck.Enabled = false;
                     scoreboard.Enabled = false;
                 }
                 else if (currentRow == 9)
                 {
-                    MessageBox.Show("Oh dear. You have run out of guesses");
+                    MessageBox.Show($"Oh dear. You have run out of guesses.\nSolution was: {solution_output}");
                     buttonCheck.Enabled = false;
                     scoreboard.Enabled = false;
                 }
@@ -229,12 +274,18 @@ public partial class FormMM : Form
             pegBoard.Invalidate();
             for (int i = 0; i < 4; i++)
             {
-                solution[i] = (PegColour)(rand.Next(5) + 1);
+                solution[i] = (PegColour)(rand.Next(8) + 1);
             }
             scoreboard.Invalidate();
             currentRow = 0;
             buttonCheck.Enabled = true;
             scoreboard.Enabled = true;
+
+            solution_output = "";
+            foreach (PegColour peg in solution)
+            {
+                solution_output = solution_output + peg.ToString() + ", ";
+            }
         }
     }
 

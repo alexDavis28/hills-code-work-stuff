@@ -20,3 +20,13 @@ C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\Maste
 C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
 C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.exe
 C:\Users\CVillaverde\OneDrive - Hills Road Sixth Form College\Win Projects\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.FormMM.resources
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\8m3xl\source\repos\MasterMindIncomplete\MasterMind\obj\Debug\MasterMind.pdb
