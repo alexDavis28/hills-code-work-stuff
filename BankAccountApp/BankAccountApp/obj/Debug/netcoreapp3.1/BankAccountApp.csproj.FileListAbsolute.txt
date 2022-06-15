@@ -1,0 +1,14 @@
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\bin\Debug\netcoreapp3.1\BankAccountApp.exe
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\bin\Debug\netcoreapp3.1\BankAccountApp.deps.json
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\bin\Debug\netcoreapp3.1\BankAccountApp.runtimeconfig.json
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\bin\Debug\netcoreapp3.1\BankAccountApp.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\bin\Debug\netcoreapp3.1\BankAccountApp.dll
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\bin\Debug\netcoreapp3.1\BankAccountApp.pdb
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\obj\Debug\netcoreapp3.1\BankAccountApp.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\obj\Debug\netcoreapp3.1\BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\obj\Debug\netcoreapp3.1\BankAccountApp.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\obj\Debug\netcoreapp3.1\BankAccountApp.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\obj\Debug\netcoreapp3.1\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\obj\Debug\netcoreapp3.1\BankAccountApp.dll
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\obj\Debug\netcoreapp3.1\BankAccountApp.pdb
+C:\Users\8m3xl\source\repos\BankAccountApp\BankAccountApp\obj\Debug\netcoreapp3.1\BankAccountApp.genruntimeconfig.cache
