@@ -86,14 +86,6 @@ namespace GoFishGUI
             }
         }
 
-        public void DisplayBooks()
-        {
-            foreach (Book book in books)
-            {
-                Console.WriteLine($"Book of {book.GetRankAsString()}");
-            }
-        }
-
         public abstract int RequestCard();
 
     }

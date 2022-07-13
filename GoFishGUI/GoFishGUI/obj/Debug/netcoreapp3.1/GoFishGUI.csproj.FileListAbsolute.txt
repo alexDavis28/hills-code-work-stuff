@@ -14,3 +14,4 @@ C:\Users\8m3xl\source\repos\GoFishGUI\GoFishGUI\obj\Debug\netcoreapp3.1\GoFishGU
 C:\Users\8m3xl\source\repos\GoFishGUI\GoFishGUI\obj\Debug\netcoreapp3.1\GoFishGUI.dll
 C:\Users\8m3xl\source\repos\GoFishGUI\GoFishGUI\obj\Debug\netcoreapp3.1\GoFishGUI.pdb
 C:\Users\8m3xl\source\repos\GoFishGUI\GoFishGUI\obj\Debug\netcoreapp3.1\GoFishGUI.genruntimeconfig.cache
+C:\Users\8m3xl\source\repos\GoFishGUI\GoFishGUI\obj\Debug\netcoreapp3.1\GoFishGUI.Resources.resources

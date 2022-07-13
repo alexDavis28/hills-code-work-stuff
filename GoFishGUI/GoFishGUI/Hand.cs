@@ -34,7 +34,7 @@ namespace GoFishGUI
         // useful in rummy-type games
         {
             int result = -1;
-            for (int i = 0; i <= Size; i++)
+            for (int i = 0; i < Size; i++)
             {
                 if ((cards[i].GetRank() == rank) && (cards[i].GetSuit() == suit))
                 {
@@ -101,6 +101,12 @@ namespace GoFishGUI
             }
         }
 
+
+
+        public void SortCards()
+        {
+            this.cards.Sort();
+        }
     }
 
 }

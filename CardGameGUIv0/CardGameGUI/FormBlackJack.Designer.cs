@@ -211,6 +211,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormBlackJack";
             this.Text = "Card Game";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FormBlackJack_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.FormBlackJack_Paint);
             this.ResumeLayout(false);

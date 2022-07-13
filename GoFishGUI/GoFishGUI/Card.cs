@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GoFishGUI
 {
-    class Card
+    public class Card : IComparable<Card>
     {
         private int rank; // range 1 to 13
         private int suit; // range 0 to 3
@@ -28,7 +28,7 @@ namespace GoFishGUI
 
         public int GetScore()
         {
-            int score = rank * 4 + suit;
+            int score = rank + suit*13;
             return score;
         }
 
@@ -49,6 +49,22 @@ namespace GoFishGUI
         public string GetName()
         {
             return GetRankAsString() + " of " + GetSuitAsString();
+        }
+
+        public int CompareTo(Card other_card)
+        {
+            if (this.GetRank() < other_card.GetRank())
+            {
+                return -1;
+            }
+            else if (this.GetRank() == other_card.GetRank())
+            {
+                return 0;
+            }
+            else
+            {
+                return 1;
+            }
         }
     }
 }
