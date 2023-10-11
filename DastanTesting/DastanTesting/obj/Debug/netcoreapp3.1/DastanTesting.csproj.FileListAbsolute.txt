@@ -1,0 +1,14 @@
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\bin\Debug\netcoreapp3.1\DastanTesting.exe
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\bin\Debug\netcoreapp3.1\DastanTesting.deps.json
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\bin\Debug\netcoreapp3.1\DastanTesting.runtimeconfig.json
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\bin\Debug\netcoreapp3.1\DastanTesting.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\bin\Debug\netcoreapp3.1\DastanTesting.dll
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\bin\Debug\netcoreapp3.1\DastanTesting.pdb
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\obj\Debug\netcoreapp3.1\DastanTesting.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\obj\Debug\netcoreapp3.1\DastanTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\obj\Debug\netcoreapp3.1\DastanTesting.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\obj\Debug\netcoreapp3.1\DastanTesting.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\obj\Debug\netcoreapp3.1\DastanTesting.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\obj\Debug\netcoreapp3.1\DastanTesting.dll
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\obj\Debug\netcoreapp3.1\DastanTesting.pdb
+C:\Users\8m3xl\source\repos\DastanTesting\DastanTesting\obj\Debug\netcoreapp3.1\DastanTesting.genruntimeconfig.cache

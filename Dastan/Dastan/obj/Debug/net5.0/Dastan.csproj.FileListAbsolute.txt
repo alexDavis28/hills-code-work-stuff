@@ -1,0 +1,16 @@
+C:\Users\8m3xl\source\repos\Dastan\Dastan\bin\Debug\net5.0\Dastan.exe
+C:\Users\8m3xl\source\repos\Dastan\Dastan\bin\Debug\net5.0\Dastan.deps.json
+C:\Users\8m3xl\source\repos\Dastan\Dastan\bin\Debug\net5.0\Dastan.runtimeconfig.json
+C:\Users\8m3xl\source\repos\Dastan\Dastan\bin\Debug\net5.0\Dastan.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\Dastan\Dastan\bin\Debug\net5.0\Dastan.dll
+C:\Users\8m3xl\source\repos\Dastan\Dastan\bin\Debug\net5.0\ref\Dastan.dll
+C:\Users\8m3xl\source\repos\Dastan\Dastan\bin\Debug\net5.0\Dastan.pdb
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\Dastan.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\Dastan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\Dastan.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\Dastan.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\Dastan.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\Dastan.dll
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\ref\Dastan.dll
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\Dastan.pdb
+C:\Users\8m3xl\source\repos\Dastan\Dastan\obj\Debug\net5.0\Dastan.genruntimeconfig.cache

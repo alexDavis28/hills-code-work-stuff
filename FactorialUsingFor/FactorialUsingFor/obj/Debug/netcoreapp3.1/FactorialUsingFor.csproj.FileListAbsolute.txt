@@ -1,0 +1,14 @@
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\obj\Debug\netcoreapp3.1\FactorialUsingFor.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\obj\Debug\netcoreapp3.1\FactorialUsingFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\obj\Debug\netcoreapp3.1\FactorialUsingFor.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\obj\Debug\netcoreapp3.1\FactorialUsingFor.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\obj\Debug\netcoreapp3.1\FactorialUsingFor.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\bin\Debug\netcoreapp3.1\FactorialUsingFor.exe
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\bin\Debug\netcoreapp3.1\FactorialUsingFor.deps.json
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\bin\Debug\netcoreapp3.1\FactorialUsingFor.runtimeconfig.json
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\bin\Debug\netcoreapp3.1\FactorialUsingFor.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\bin\Debug\netcoreapp3.1\FactorialUsingFor.dll
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\bin\Debug\netcoreapp3.1\FactorialUsingFor.pdb
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\obj\Debug\netcoreapp3.1\FactorialUsingFor.dll
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\obj\Debug\netcoreapp3.1\FactorialUsingFor.pdb
+C:\Users\8m3xl\source\repos\FactorialUsingFor\FactorialUsingFor\obj\Debug\netcoreapp3.1\FactorialUsingFor.genruntimeconfig.cache

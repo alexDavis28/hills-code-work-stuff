@@ -1,0 +1,14 @@
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\obj\Debug\netcoreapp3.1\SectionB2021.csproj.AssemblyReference.cache
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\obj\Debug\netcoreapp3.1\SectionB2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\obj\Debug\netcoreapp3.1\SectionB2021.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\obj\Debug\netcoreapp3.1\SectionB2021.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\obj\Debug\netcoreapp3.1\SectionB2021.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\bin\Debug\netcoreapp3.1\SectionB2021.exe
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\bin\Debug\netcoreapp3.1\SectionB2021.deps.json
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\bin\Debug\netcoreapp3.1\SectionB2021.runtimeconfig.json
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\bin\Debug\netcoreapp3.1\SectionB2021.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\bin\Debug\netcoreapp3.1\SectionB2021.dll
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\bin\Debug\netcoreapp3.1\SectionB2021.pdb
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\obj\Debug\netcoreapp3.1\SectionB2021.dll
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\obj\Debug\netcoreapp3.1\SectionB2021.pdb
+C:\Users\8m3xl\source\repos\SectionB2021\SectionB2021\obj\Debug\netcoreapp3.1\SectionB2021.genruntimeconfig.cache

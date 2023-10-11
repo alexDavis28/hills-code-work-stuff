@@ -1,0 +1,4 @@
+C:\Users\8m3xl\source\repos\2022SectionD\2022SectionD\obj\Debug\netcoreapp3.1\2022SectionD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\2022SectionD\2022SectionD\obj\Debug\netcoreapp3.1\2022SectionD.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\2022SectionD\2022SectionD\obj\Debug\netcoreapp3.1\2022SectionD.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\2022SectionD\2022SectionD\obj\Debug\netcoreapp3.1\2022SectionD.csproj.CoreCompileInputs.cache

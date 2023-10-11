@@ -1,0 +1,13 @@
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\obj\Debug\netcoreapp3.1\2022 Section B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\obj\Debug\netcoreapp3.1\2022 Section B.AssemblyInfoInputs.cache
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\obj\Debug\netcoreapp3.1\2022 Section B.AssemblyInfo.cs
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\obj\Debug\netcoreapp3.1\2022 Section B.csproj.CoreCompileInputs.cache
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\bin\Debug\netcoreapp3.1\2022 Section B.exe
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\bin\Debug\netcoreapp3.1\2022 Section B.deps.json
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\bin\Debug\netcoreapp3.1\2022 Section B.runtimeconfig.json
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\bin\Debug\netcoreapp3.1\2022 Section B.runtimeconfig.dev.json
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\bin\Debug\netcoreapp3.1\2022 Section B.dll
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\bin\Debug\netcoreapp3.1\2022 Section B.pdb
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\obj\Debug\netcoreapp3.1\2022 Section B.dll
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\obj\Debug\netcoreapp3.1\2022 Section B.pdb
+C:\Users\8m3xl\source\repos\2022 Section B\2022 Section B\obj\Debug\netcoreapp3.1\2022 Section B.genruntimeconfig.cache
